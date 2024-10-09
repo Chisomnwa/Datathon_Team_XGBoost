@@ -1,0 +1,301 @@
+student_id,admission_number,full_name,date_of_birth,gender,join_date,join_class,current_class,discipline,graduation_date,state_of_origin,religion,boarding_status,scholarship_type,health_information,distance_to_school_km,transport_mode,family_id
+1001,JS1A/2019/001,Aisha Ibrahim,2006-07-21,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Christianity,Day Student,Need-based,Asthma,5.44,Walk,5001
+1002,JS1A/2019/002,Olivia Lee,2006-06-03,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Christianity,Day Student,Need-based,Asthma,6.14,Walk,5002
+1003,JS1A/2019/003,Emeka Ali,2005-04-23,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Christianity,Boarder,,Healthy,,,5003
+1004,JS1A/2019/004,Aisha Okafor,2006-12-15,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Christianity,Boarder,Need-based,Healthy,,,5004
+1005,JS1A/2019/005,Fatima Abdullahi,2005-03-26,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Christianity,Day Student,Need-based,Asthma,7.95,Bicycle,5005
+1006,JS1A/2019/006,Ibrahim Okafor,2006-08-31,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Christianity,Day Student,Merit,Healthy,7.91,Bicycle,5006
+1007,JS1A/2019/007,Emeka Okafor,2005-09-07,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Christianity,Day Student,,Asthma,11.56,Bicycle,5007
+1008,JS1A/2019/008,Fatima Ibrahim,2005-07-08,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Christianity,Boarder,,Asthma,,,5008
+1009,JS1A/2019/009,Ibrahim Adedayo,2006-08-09,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Christianity,Boarder,Merit,Healthy,,,5009
+1010,JS1A/2019/010,Samuel Okafor,2006-12-06,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Christianity,Day Student,,Healthy,19.71,Bicycle,5010
+1011,JS1A/2019/011,Chidi Abdullahi,2005-10-11,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Christianity,Day Student,Need-based,Healthy,9.83,Bicycle,5011
+1012,JS1A/2019/012,Ibrahim Okafor,2006-02-04,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Christianity,Day Student,,Vision Impairment,14.75,Bicycle,5012
+1013,JS1A/2019/013,Samuel Abdullahi,2006-02-22,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Day Student,Need-based,Vision Impairment,14.78,Bus,5013
+1014,JS1A/2019/014,Samuel Doe,2005-11-07,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Boarder,,Healthy,,,5014
+1015,JS1A/2019/015,Ibrahim Doe,2005-05-17,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Christianity,Day Student,,Vision Impairment,17.71,Walk,5015
+1016,JS1A/2019/016,Amina John,2006-01-08,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Day Student,Need-based,Healthy,14.44,Bicycle,5016
+1017,JS1A/2019/017,Aisha Okafor,2006-09-11,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Islam,Day Student,,Asthma,8.46,Bicycle,5017
+1018,JS1A/2019/018,Chidi Adedayo,2005-07-08,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Christianity,Boarder,Need-based,Vision Impairment,,,5018
+1019,JS1A/2019/019,Olivia Smith,2005-04-07,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Day Student,,Asthma,18.41,Walk,5019
+1020,JS1A/2019/020,Emeka Khan,2006-03-19,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Islam,Boarder,Merit,Vision Impairment,,,5020
+1021,JS1A/2019/021,Fatima Okafor,2005-03-07,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Christianity,Day Student,,Asthma,1.48,Walk,5021
+1022,JS1A/2019/022,Fatima Doe,2005-09-06,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Islam,Boarder,Merit,Vision Impairment,,,5022
+1023,JS1A/2019/023,Samuel Lee,2005-10-16,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Islam,Boarder,Need-based,Asthma,,,5023
+1024,JS1A/2019/024,Emeka Ali,2006-08-03,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Christianity,Day Student,Need-based,Healthy,4.89,Walk,5024
+1025,JS1A/2019/025,Tunde Ibrahim,2006-01-21,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Christianity,Boarder,Merit,Asthma,,,5025
+1026,JS1A/2019/026,Tunde Adedayo,2005-01-21,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Islam,Boarder,Merit,Healthy,,,5026
+1027,JS1A/2019/027,Olivia Abdullahi,2005-01-09,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Islam,Day Student,Need-based,Asthma,10.83,Walk,5027
+1028,JS1A/2019/028,Ibrahim Abdullahi,2006-01-17,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Islam,Day Student,Need-based,Healthy,14.91,Walk,5028
+1029,JS1A/2019/029,Ibrahim John,2006-07-26,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Islam,Day Student,Merit,Healthy,8.33,Bus,5029
+1030,JS1A/2019/030,Joy Lee,2006-03-04,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Islam,Day Student,Merit,Asthma,2.81,Bus,5030
+1031,JS1A/2019/031,Fatima Lee,2005-05-18,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Islam,Day Student,Need-based,Asthma,2.41,Walk,5031
+1032,JS1A/2019/032,Emeka Doe,2006-05-14,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Christianity,Day Student,Need-based,Vision Impairment,19.55,Walk,5032
+1033,JS1A/2019/033,Samuel Ali,2005-03-11,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Christianity,Boarder,Need-based,Vision Impairment,,,5033
+1034,JS1A/2019/034,Samuel Smith,2005-01-08,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Islam,Day Student,,Vision Impairment,9.6,Bus,5034
+1035,JS1A/2019/035,Emeka Abdullahi,2006-06-25,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Islam,Boarder,Merit,Vision Impairment,,,5035
+1036,JS1A/2019/036,Olivia Okafor,2005-03-02,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Christianity,Day Student,Merit,Asthma,3.54,Bus,5036
+1037,JS1A/2019/037,Amina John,2006-04-16,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Christianity,Boarder,Merit,Healthy,,,5037
+1038,JS1A/2019/038,Aisha Abdullahi,2005-01-19,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Islam,Boarder,,Asthma,,,5038
+1039,JS1A/2019/039,Ibrahim Adedayo,2006-12-05,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Christianity,Day Student,Need-based,Vision Impairment,6.49,Bus,5039
+1040,JS1A/2019/040,Ibrahim John,2006-10-28,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Islam,Day Student,,Healthy,3.86,Bus,5040
+1041,JS1A/2019/041,Emeka Adedayo,2005-11-13,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Islam,Day Student,,Vision Impairment,11.55,Bus,5041
+1042,JS1A/2019/042,Aisha Okafor,2006-07-30,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Boarder,Need-based,Healthy,,,5042
+1043,JS1A/2019/043,Ibrahim Khan,2005-06-11,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Boarder,Need-based,Vision Impairment,,,5043
+1044,JS1A/2019/044,Joy Ibrahim,2005-03-26,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Islam,Boarder,,Asthma,,,5044
+1045,JS1A/2019/045,Chidi Abdullahi,2006-11-30,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Islam,Day Student,Merit,Asthma,10.82,Bicycle,5045
+1046,JS1A/2019/046,Tunde Okafor,2005-05-15,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Christianity,Day Student,Need-based,Asthma,4.3,Bicycle,5046
+1047,JS1A/2019/047,Aisha John,2006-07-08,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Christianity,Boarder,Need-based,Healthy,,,5047
+1048,JS1A/2019/048,Joy Adedayo,2006-10-01,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Islam,Day Student,,Vision Impairment,19.55,Bus,5048
+1049,JS1A/2019/049,Fatima Doe,2006-02-28,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Christianity,Day Student,Merit,Asthma,8.64,Bus,5049
+1050,JS1A/2019/050,Tunde Abdullahi,2006-07-29,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Islam,Boarder,,Healthy,,,5050
+1051,JS1A/2019/051,Olivia John,2005-12-09,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Christianity,Boarder,Merit,Vision Impairment,,,5051
+1052,JS1A/2019/052,Emeka Adedayo,2005-11-15,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Islam,Boarder,Need-based,Healthy,,,5052
+1053,JS1A/2019/053,Ibrahim Abdullahi,2006-10-16,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Christianity,Day Student,,Vision Impairment,11.27,Bus,5053
+1054,JS1A/2019/054,Samuel Adedayo,2005-04-10,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Boarder,Merit,Vision Impairment,,,5054
+1055,JS1A/2019/055,Fatima Abdullahi,2006-12-13,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Christianity,Boarder,Merit,Asthma,,,5055
+1056,JS1A/2019/056,Aisha Khan,2005-11-11,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Islam,Day Student,,Vision Impairment,14.2,Bicycle,5056
+1057,JS1A/2019/057,Fatima Smith,2006-03-11,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Islam,Boarder,Need-based,Healthy,,,5057
+1058,JS1A/2019/058,Fatima Okafor,2006-10-22,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Islam,Day Student,Merit,Healthy,8.99,Bus,5058
+1059,JS1A/2019/059,Emeka Abdullahi,2005-10-10,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Christianity,Day Student,Merit,Healthy,7.38,Walk,5059
+1060,JS1A/2019/060,Ibrahim John,2005-12-19,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Islam,Boarder,Need-based,Asthma,,,5060
+1061,JS1A/2019/061,Emeka Abdullahi,2005-02-02,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Christianity,Boarder,Merit,Asthma,,,5061
+1062,JS1A/2019/062,Joy Doe,2006-12-10,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Islam,Boarder,Need-based,Asthma,,,5062
+1063,JS1A/2019/063,Emeka Ali,2005-03-18,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Islam,Day Student,Need-based,Healthy,8.64,Bicycle,5063
+1064,JS1A/2019/064,Joy Lee,2006-11-29,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Islam,Boarder,,Healthy,,,5064
+1065,JS1A/2019/065,Olivia Doe,2005-12-06,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Islam,Day Student,,Asthma,18.87,Bicycle,5065
+1066,JS1A/2019/066,Olivia Okafor,2005-11-25,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Christianity,Day Student,Merit,Vision Impairment,2.46,Bus,5066
+1067,JS1A/2019/067,Tunde Doe,2006-11-14,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Christianity,Day Student,Merit,Asthma,8.14,Bicycle,5067
+1068,JS1A/2019/068,Tunde Khan,2006-09-05,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Islam,Day Student,,Asthma,1.57,Bicycle,5068
+1069,JS1A/2019/069,Emeka Adedayo,2005-02-14,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Islam,Boarder,Merit,Asthma,,,5069
+1070,JS1A/2019/070,Fatima Ali,2005-12-07,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Christianity,Boarder,Merit,Asthma,,,5070
+1071,JS1A/2019/071,Olivia Adedayo,2005-09-10,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Christianity,Day Student,,Asthma,9.22,Walk,5071
+1072,JS1A/2019/072,Tunde John,2005-11-23,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Christianity,Day Student,,Asthma,19.28,Bicycle,5072
+1073,JS1A/2019/073,Aisha John,2005-03-06,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Islam,Day Student,Merit,Healthy,16.4,Bicycle,5073
+1074,JS1A/2019/074,Tunde Doe,2006-12-11,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Boarder,Merit,Healthy,,,5074
+1075,JS1A/2019/075,Amina Abdullahi,2005-02-27,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Day Student,,Asthma,5.03,Bicycle,5075
+1076,JS1A/2019/076,Chidi Ali,2005-05-20,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Christianity,Boarder,Need-based,Vision Impairment,,,5076
+1077,JS1A/2019/077,Joy Ibrahim,2006-09-15,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Islam,Boarder,,Vision Impairment,,,5077
+1078,JS1A/2019/078,Ibrahim John,2006-09-17,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Islam,Boarder,,Vision Impairment,,,5078
+1079,JS1A/2019/079,Amina John,2005-02-03,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Christianity,Day Student,,Healthy,4.22,Walk,5079
+1080,JS1A/2019/080,Aisha Abdullahi,2005-03-02,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Islam,Boarder,,Healthy,,,5080
+1081,JS1A/2019/081,Tunde Abdullahi,2005-09-25,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Christianity,Day Student,Need-based,Asthma,11.18,Walk,5081
+1082,JS1A/2019/082,Amina Smith,2005-12-08,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Day Student,,Vision Impairment,14.61,Bicycle,5082
+1083,JS1A/2019/083,Aisha Ibrahim,2006-05-31,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Christianity,Day Student,Need-based,Asthma,18.4,Bicycle,5083
+1084,JS1A/2019/084,Olivia Okafor,2006-07-07,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Christianity,Day Student,Merit,Healthy,18.42,Walk,5084
+1085,JS1A/2019/085,Olivia Ibrahim,2005-12-31,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Boarder,,Asthma,,,5085
+1086,JS1A/2019/086,Samuel Okafor,2006-04-19,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Boarder,Need-based,Asthma,,,5086
+1087,JS1A/2019/087,Chidi Ali,2006-05-03,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Islam,Day Student,,Asthma,5.81,Bus,5087
+1088,JS1A/2019/088,Samuel Adedayo,2006-07-23,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Islam,Boarder,,Asthma,,,5088
+1089,JS1A/2019/089,Ibrahim John,2005-03-21,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Islam,Boarder,Need-based,Vision Impairment,,,5089
+1090,JS1A/2019/090,Aisha Ali,2005-10-31,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Islam,Boarder,,Vision Impairment,,,5090
+1091,JS1A/2019/091,Chidi Lee,2005-04-10,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Boarder,Need-based,Healthy,,,5091
+1092,JS1A/2019/092,Chidi Lee,2006-06-01,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Christianity,Boarder,Merit,Vision Impairment,,,5092
+1093,JS1A/2019/093,Amina Smith,2005-10-26,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Islam,Boarder,,Vision Impairment,,,5093
+1094,JS1A/2019/094,Aisha John,2006-04-17,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Boarder,Merit,Healthy,,,5094
+1095,JS1A/2019/095,Tunde Smith,2006-06-13,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Oyo,Islam,Day Student,Need-based,Asthma,8.65,Bicycle,5095
+1096,JS1A/2019/096,Fatima Ibrahim,2006-01-31,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Abuja,Christianity,Boarder,Need-based,Healthy,,,5096
+1097,JS1A/2019/097,Joy Okafor,2005-12-05,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Rivers,Islam,Day Student,Need-based,Healthy,16.18,Bicycle,5097
+1098,JS1A/2019/098,Joy Lee,2005-12-11,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Christianity,Day Student,Need-based,Asthma,4.02,Bicycle,5098
+1099,JS1A/2019/099,Aisha Okafor,2006-02-20,Female,2019-09-15,JS1A,SS3A,Art,2024-07-15,Lagos,Islam,Day Student,Merit,Vision Impairment,5.27,Walk,5099
+1100,JS1A/2019/100,Joy Smith,2006-09-12,Male,2019-09-15,JS1A,SS3A,Art,2024-07-15,Kano,Islam,Boarder,Merit,Vision Impairment,,,5100
+1101,JS1B/2019/101,Aisha Okafor,2005-01-22,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Islam,Day Student,Need-based,Asthma,16.29,Bicycle,5001
+1102,JS1B/2019/102,Chidi Smith,2005-06-29,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Christianity,Day Student,,Vision Impairment,2.75,Walk,5002
+1103,JS1B/2019/103,Chidi Ali,2006-07-12,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Boarder,Merit,Vision Impairment,,,5003
+1104,JS1B/2019/104,Tunde Okafor,2006-03-15,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Islam,Day Student,Merit,Vision Impairment,15.49,Walk,5004
+1105,JS1B/2019/105,Amina John,2006-10-17,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Day Student,Need-based,Healthy,12.15,Bus,5005
+1106,JS1B/2019/106,Tunde Ali,2006-09-16,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Islam,Day Student,Merit,Vision Impairment,5.36,Bicycle,5006
+1107,JS1B/2019/107,Joy Ali,2005-11-18,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Christianity,Day Student,Need-based,Healthy,5.81,Bus,5007
+1108,JS1B/2019/108,Olivia Adedayo,2006-02-13,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Boarder,,Vision Impairment,,,5008
+1109,JS1B/2019/109,Fatima Adedayo,2005-11-11,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Day Student,,Asthma,9.58,Bus,5009
+1110,JS1B/2019/110,Tunde Abdullahi,2005-05-23,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Boarder,,Healthy,,,5010
+1111,JS1B/2019/111,Aisha Abdullahi,2005-02-13,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Christianity,Day Student,Merit,Vision Impairment,13.13,Bicycle,5011
+1112,JS1B/2019/112,Ibrahim John,2005-09-14,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Islam,Boarder,Need-based,Asthma,,,5012
+1113,JS1B/2019/113,Samuel Okafor,2005-12-03,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Islam,Day Student,Need-based,Healthy,13.85,Walk,5013
+1114,JS1B/2019/114,Chidi Okafor,2005-10-06,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Islam,Boarder,Need-based,Asthma,,,5014
+1115,JS1B/2019/115,Chidi Adedayo,2005-01-08,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Christianity,Boarder,Need-based,Healthy,,,5015
+1116,JS1B/2019/116,Fatima Smith,2005-02-21,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Islam,Boarder,Need-based,Asthma,,,5016
+1117,JS1B/2019/117,Tunde Okafor,2006-05-25,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Christianity,Day Student,Need-based,Healthy,7.16,Walk,5017
+1118,JS1B/2019/118,Ibrahim Doe,2005-12-29,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Islam,Boarder,Need-based,Healthy,,,5018
+1119,JS1B/2019/119,Aisha Adedayo,2005-01-12,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Christianity,Boarder,,Vision Impairment,,,5019
+1120,JS1B/2019/120,Joy Khan,2005-01-19,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Islam,Boarder,,Healthy,,,5020
+1121,JS1B/2019/121,Olivia Khan,2006-10-25,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Day Student,Merit,Healthy,7.56,Bicycle,5021
+1122,JS1B/2019/122,Aisha Ali,2006-04-13,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Boarder,,Asthma,,,5022
+1123,JS1B/2019/123,Aisha Ibrahim,2005-12-20,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Christianity,Boarder,,Vision Impairment,,,5023
+1124,JS1B/2019/124,Aisha Okafor,2006-04-22,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Islam,Boarder,Merit,Healthy,,,5024
+1125,JS1B/2019/125,Tunde Smith,2005-08-29,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Islam,Boarder,,Vision Impairment,,,5025
+1126,JS1B/2019/126,Tunde Ibrahim,2005-02-21,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Day Student,Merit,Vision Impairment,8.75,Bicycle,5026
+1127,JS1B/2019/127,Emeka Doe,2005-07-07,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Christianity,Day Student,Merit,Vision Impairment,2.71,Walk,5027
+1128,JS1B/2019/128,Tunde Abdullahi,2005-03-07,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Islam,Boarder,,Healthy,,,5028
+1129,JS1B/2019/129,Joy Adedayo,2006-02-23,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Christianity,Day Student,,Asthma,8.07,Bus,5029
+1130,JS1B/2019/130,Ibrahim Ali,2005-09-03,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Islam,Day Student,,Vision Impairment,7.0,Bicycle,5030
+1131,JS1B/2019/131,Olivia Ali,2005-02-07,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Christianity,Boarder,,Healthy,,,5031
+1132,JS1B/2019/132,Fatima Doe,2006-09-15,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Christianity,Day Student,,Healthy,2.52,Walk,5032
+1133,JS1B/2019/133,Amina Lee,2006-10-10,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Islam,Boarder,,Asthma,,,5033
+1134,JS1B/2019/134,Joy Khan,2005-05-18,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Christianity,Day Student,Merit,Healthy,19.24,Bus,5034
+1135,JS1B/2019/135,Amina Lee,2005-10-04,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Islam,Day Student,Merit,Healthy,5.27,Bicycle,5035
+1136,JS1B/2019/136,Samuel Adedayo,2005-08-31,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Islam,Boarder,Need-based,Healthy,,,5036
+1137,JS1B/2019/137,Fatima Okafor,2006-04-11,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Christianity,Boarder,Merit,Asthma,,,5037
+1138,JS1B/2019/138,Samuel Ali,2005-08-21,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Boarder,Merit,Vision Impairment,,,5038
+1139,JS1B/2019/139,Chidi Khan,2005-05-24,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Islam,Boarder,Merit,Healthy,,,5039
+1140,JS1B/2019/140,Chidi Lee,2005-02-27,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Islam,Boarder,Merit,Vision Impairment,,,5040
+1141,JS1B/2019/141,Aisha Smith,2006-06-11,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Christianity,Boarder,Need-based,Asthma,,,5041
+1142,JS1B/2019/142,Emeka Abdullahi,2006-12-05,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Islam,Boarder,,Vision Impairment,,,5042
+1143,JS1B/2019/143,Chidi Ali,2006-02-28,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Christianity,Day Student,Need-based,Vision Impairment,11.62,Bus,5043
+1144,JS1B/2019/144,Ibrahim Smith,2006-01-11,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Day Student,Merit,Vision Impairment,15.03,Bus,5044
+1145,JS1B/2019/145,Amina Doe,2006-04-25,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Christianity,Boarder,,Healthy,,,5045
+1146,JS1B/2019/146,Emeka Ali,2006-12-23,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Islam,Day Student,Merit,Vision Impairment,8.85,Bicycle,5046
+1147,JS1B/2019/147,Tunde Lee,2006-11-29,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Islam,Day Student,Merit,Vision Impairment,17.11,Walk,5047
+1148,JS1B/2019/148,Chidi Adedayo,2006-09-10,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Islam,Boarder,Need-based,Healthy,,,5048
+1149,JS1B/2019/149,Olivia Ibrahim,2006-09-01,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Islam,Day Student,,Healthy,9.5,Bicycle,5049
+1150,JS1B/2019/150,Emeka Abdullahi,2006-09-29,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Islam,Day Student,Merit,Healthy,10.42,Walk,5050
+1151,JS1B/2019/151,Ibrahim Smith,2005-10-07,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Islam,Day Student,Merit,Asthma,4.1,Bus,5051
+1152,JS1B/2019/152,Amina John,2005-05-27,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Islam,Day Student,,Vision Impairment,13.39,Bicycle,5052
+1153,JS1B/2019/153,Tunde Adedayo,2005-11-27,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Islam,Day Student,Merit,Vision Impairment,13.58,Bicycle,5053
+1154,JS1B/2019/154,Joy Doe,2006-01-09,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Boarder,,Healthy,,,5054
+1155,JS1B/2019/155,Olivia Smith,2005-04-07,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Islam,Day Student,,Asthma,11.4,Bicycle,5055
+1156,JS1B/2019/156,Tunde Doe,2005-08-30,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Islam,Boarder,Need-based,Healthy,,,5056
+1157,JS1B/2019/157,Chidi John,2006-04-16,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Christianity,Day Student,Merit,Vision Impairment,19.45,Bicycle,5057
+1158,JS1B/2019/158,Chidi Adedayo,2006-07-27,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Islam,Day Student,Merit,Vision Impairment,19.92,Bus,5058
+1159,JS1B/2019/159,Olivia Ibrahim,2005-02-09,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Christianity,Day Student,,Vision Impairment,10.02,Bicycle,5059
+1160,JS1B/2019/160,Chidi Ibrahim,2006-04-01,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Islam,Boarder,Merit,Healthy,,,5060
+1161,JS1B/2019/161,Fatima Lee,2005-10-16,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Day Student,Merit,Healthy,19.9,Bicycle,5061
+1162,JS1B/2019/162,Aisha Khan,2005-12-09,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Islam,Boarder,,Healthy,,,5062
+1163,JS1B/2019/163,Chidi Smith,2006-11-28,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Day Student,Merit,Vision Impairment,15.35,Bicycle,5063
+1164,JS1B/2019/164,Emeka Khan,2006-04-09,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Christianity,Day Student,,Healthy,15.1,Walk,5064
+1165,JS1B/2019/165,Ibrahim Abdullahi,2005-04-19,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Islam,Day Student,,Asthma,19.59,Bicycle,5065
+1166,JS1B/2019/166,Amina Khan,2005-11-26,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Christianity,Day Student,Merit,Healthy,17.96,Walk,5066
+1167,JS1B/2019/167,Joy Okafor,2006-02-03,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Christianity,Day Student,,Vision Impairment,15.26,Bus,5067
+1168,JS1B/2019/168,Emeka Okafor,2006-04-06,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Islam,Day Student,,Asthma,14.89,Bicycle,5068
+1169,JS1B/2019/169,Ibrahim John,2006-01-29,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Islam,Boarder,Merit,Vision Impairment,,,5069
+1170,JS1B/2019/170,Amina Khan,2005-11-04,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Day Student,,Vision Impairment,8.43,Walk,5070
+1171,JS1B/2019/171,Chidi Lee,2006-07-25,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Islam,Boarder,Merit,Vision Impairment,,,5071
+1172,JS1B/2019/172,Amina Khan,2006-12-28,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Christianity,Boarder,,Vision Impairment,,,5072
+1173,JS1B/2019/173,Amina Ibrahim,2006-05-09,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Islam,Day Student,Merit,Healthy,2.11,Bus,5073
+1174,JS1B/2019/174,Aisha Doe,2006-05-04,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Christianity,Boarder,Need-based,Asthma,,,5074
+1175,JS1B/2019/175,Chidi Adedayo,2005-04-15,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Islam,Day Student,,Vision Impairment,9.67,Walk,5075
+1176,JS1B/2019/176,Chidi Lee,2005-10-24,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Christianity,Day Student,,Healthy,8.19,Bus,5076
+1177,JS1B/2019/177,Olivia John,2005-05-18,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Christianity,Boarder,,Vision Impairment,,,5077
+1178,JS1B/2019/178,Fatima John,2006-12-02,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Christianity,Boarder,Need-based,Vision Impairment,,,5078
+1179,JS1B/2019/179,Amina Abdullahi,2006-06-23,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Christianity,Boarder,,Healthy,,,5079
+1180,JS1B/2019/180,Tunde Adedayo,2006-01-04,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Christianity,Day Student,,Vision Impairment,8.55,Walk,5080
+1181,JS1B/2019/181,Samuel Ibrahim,2005-06-22,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Islam,Day Student,,Asthma,18.39,Bicycle,5081
+1182,JS1B/2019/182,Amina Okafor,2005-09-26,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Islam,Day Student,Merit,Vision Impairment,8.83,Bicycle,5082
+1183,JS1B/2019/183,Tunde Smith,2006-07-22,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Islam,Day Student,Need-based,Vision Impairment,1.77,Walk,5083
+1184,JS1B/2019/184,Olivia Okafor,2006-06-06,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Boarder,Merit,Healthy,,,5084
+1185,JS1B/2019/185,Amina John,2006-08-01,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Christianity,Boarder,,Asthma,,,5085
+1186,JS1B/2019/186,Samuel Ibrahim,2006-05-07,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Christianity,Boarder,Need-based,Healthy,,,5086
+1187,JS1B/2019/187,Chidi Smith,2006-06-11,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Rivers,Islam,Day Student,Need-based,Healthy,12.29,Bus,5087
+1188,JS1B/2019/188,Emeka Ali,2006-12-17,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Christianity,Day Student,Merit,Asthma,4.97,Bicycle,5088
+1189,JS1B/2019/189,Joy Doe,2006-01-11,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Boarder,Merit,Vision Impairment,,,5089
+1190,JS1B/2019/190,Samuel Ali,2005-08-24,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Islam,Day Student,Merit,Asthma,3.78,Bicycle,5090
+1191,JS1B/2019/191,Emeka Doe,2005-10-25,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Christianity,Boarder,,Asthma,,,5091
+1192,JS1B/2019/192,Tunde Doe,2006-11-24,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Day Student,Merit,Asthma,11.52,Walk,5092
+1193,JS1B/2019/193,Emeka John,2006-11-17,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Islam,Day Student,Need-based,Asthma,11.82,Bus,5093
+1194,JS1B/2019/194,Chidi Ali,2006-01-15,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Christianity,Day Student,Merit,Healthy,6.38,Bicycle,5094
+1195,JS1B/2019/195,Amina Okafor,2005-04-30,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Christianity,Day Student,Need-based,Vision Impairment,3.08,Bicycle,5095
+1196,JS1B/2019/196,Emeka Adedayo,2006-11-14,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Christianity,Day Student,Need-based,Asthma,16.88,Walk,5096
+1197,JS1B/2019/197,Aisha Okafor,2005-09-26,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Abuja,Christianity,Day Student,,Asthma,9.89,Walk,5097
+1198,JS1B/2019/198,Aisha Smith,2006-04-25,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Oyo,Islam,Day Student,,Healthy,4.42,Walk,5098
+1199,JS1B/2019/199,Ibrahim John,2006-08-02,Male,2019-09-15,JS1B,SS3S,Science,2024-07-15,Lagos,Islam,Boarder,,Vision Impairment,,,5099
+1200,JS1B/2019/200,Amina Ibrahim,2005-08-30,Female,2019-09-15,JS1B,SS3S,Science,2024-07-15,Kano,Islam,Day Student,Need-based,Vision Impairment,4.13,Bicycle,5100
+1201,JS1C/2019/201,Samuel Lee,2006-08-29,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Christianity,Boarder,Need-based,Asthma,,,5001
+1202,JS1C/2019/202,Amina Khan,2005-04-14,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Christianity,Day Student,Merit,Asthma,12.91,Bicycle,5002
+1203,JS1C/2019/203,Joy Khan,2006-01-28,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Boarder,Merit,Vision Impairment,,,5003
+1204,JS1C/2019/204,Fatima Ibrahim,2005-12-18,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Christianity,Day Student,Need-based,Vision Impairment,14.52,Bicycle,5004
+1205,JS1C/2019/205,Emeka Adedayo,2005-10-08,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Christianity,Day Student,,Vision Impairment,1.78,Walk,5005
+1206,JS1C/2019/206,Samuel Adedayo,2006-07-20,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Islam,Day Student,,Vision Impairment,18.19,Bus,5006
+1207,JS1C/2019/207,Joy Smith,2006-05-26,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Islam,Day Student,,Asthma,18.95,Walk,5007
+1208,JS1C/2019/208,Aisha Smith,2006-11-04,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Boarder,,Asthma,,,5008
+1209,JS1C/2019/209,Chidi John,2006-11-21,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Islam,Day Student,,Asthma,1.03,Walk,5009
+1210,JS1C/2019/210,Joy Lee,2006-11-25,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Christianity,Boarder,Need-based,Healthy,,,5010
+1211,JS1C/2019/211,Olivia Okafor,2005-09-26,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Islam,Boarder,Need-based,Vision Impairment,,,5011
+1212,JS1C/2019/212,Emeka Khan,2006-04-13,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Christianity,Boarder,Need-based,Vision Impairment,,,5012
+1213,JS1C/2019/213,Amina Khan,2005-01-18,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Islam,Day Student,,Asthma,2.1,Bus,5013
+1214,JS1C/2019/214,Aisha Smith,2006-01-23,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Christianity,Day Student,Need-based,Healthy,5.41,Bicycle,5014
+1215,JS1C/2019/215,Amina John,2005-05-25,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Islam,Boarder,,Asthma,,,5015
+1216,JS1C/2019/216,Olivia Okafor,2005-05-15,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Christianity,Day Student,Merit,Asthma,9.89,Bicycle,5016
+1217,JS1C/2019/217,Tunde Ibrahim,2005-12-08,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Islam,Day Student,,Asthma,17.39,Bus,5017
+1218,JS1C/2019/218,Olivia Abdullahi,2005-07-14,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Islam,Day Student,Merit,Asthma,4.49,Walk,5018
+1219,JS1C/2019/219,Chidi Adedayo,2006-05-07,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Islam,Day Student,,Asthma,16.98,Bus,5019
+1220,JS1C/2019/220,Samuel John,2005-10-03,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Islam,Boarder,,Vision Impairment,,,5020
+1221,JS1C/2019/221,Ibrahim Abdullahi,2005-06-14,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Christianity,Day Student,Merit,Healthy,1.11,Walk,5021
+1222,JS1C/2019/222,Emeka Doe,2006-06-11,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Boarder,Need-based,Asthma,,,5022
+1223,JS1C/2019/223,Chidi Smith,2006-12-11,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Christianity,Day Student,Need-based,Asthma,3.8,Bus,5023
+1224,JS1C/2019/224,Chidi Adedayo,2006-11-03,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Day Student,Merit,Vision Impairment,19.45,Walk,5024
+1225,JS1C/2019/225,Olivia Adedayo,2006-09-23,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Christianity,Day Student,Merit,Vision Impairment,18.48,Bus,5025
+1226,JS1C/2019/226,Ibrahim John,2005-04-01,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Christianity,Boarder,Merit,Healthy,,,5026
+1227,JS1C/2019/227,Samuel Adedayo,2006-01-22,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Islam,Day Student,,Asthma,3.55,Bicycle,5027
+1228,JS1C/2019/228,Fatima Ibrahim,2006-10-21,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Islam,Day Student,,Vision Impairment,14.78,Bicycle,5028
+1229,JS1C/2019/229,Joy John,2006-06-26,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Boarder,Merit,Vision Impairment,,,5029
+1230,JS1C/2019/230,Samuel John,2006-04-28,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Islam,Day Student,,Healthy,1.79,Bicycle,5030
+1231,JS1C/2019/231,Chidi Lee,2006-03-05,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Boarder,Need-based,Vision Impairment,,,5031
+1232,JS1C/2019/232,Olivia Smith,2005-04-22,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Islam,Boarder,Need-based,Healthy,,,5032
+1233,JS1C/2019/233,Olivia Khan,2006-01-12,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Christianity,Boarder,,Healthy,,,5033
+1234,JS1C/2019/234,Joy Khan,2006-04-05,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Christianity,Day Student,Merit,Asthma,19.23,Bicycle,5034
+1235,JS1C/2019/235,Ibrahim Ibrahim,2006-09-29,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Christianity,Day Student,Merit,Healthy,16.1,Bicycle,5035
+1236,JS1C/2019/236,Aisha Ali,2006-06-19,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Christianity,Day Student,Need-based,Vision Impairment,12.11,Walk,5036
+1237,JS1C/2019/237,Emeka Ali,2006-10-30,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Islam,Day Student,Need-based,Healthy,13.32,Walk,5037
+1238,JS1C/2019/238,Samuel Smith,2005-11-04,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Islam,Boarder,,Vision Impairment,,,5038
+1239,JS1C/2019/239,Olivia Khan,2005-11-21,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Islam,Boarder,,Vision Impairment,,,5039
+1240,JS1C/2019/240,Fatima Doe,2006-09-02,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Christianity,Day Student,Merit,Healthy,11.22,Bicycle,5040
+1241,JS1C/2019/241,Ibrahim Adedayo,2006-10-01,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Islam,Boarder,Need-based,Healthy,,,5041
+1242,JS1C/2019/242,Joy John,2005-03-14,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Islam,Boarder,Need-based,Vision Impairment,,,5042
+1243,JS1C/2019/243,Fatima Adedayo,2006-07-07,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Islam,Day Student,,Asthma,1.01,Bicycle,5043
+1244,JS1C/2019/244,Emeka Khan,2006-02-02,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Day Student,Merit,Vision Impairment,5.33,Bus,5044
+1245,JS1C/2019/245,Emeka Khan,2005-08-31,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Islam,Day Student,Need-based,Healthy,18.85,Bicycle,5045
+1246,JS1C/2019/246,Chidi Khan,2006-12-13,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Islam,Boarder,,Healthy,,,5046
+1247,JS1C/2019/247,Samuel Khan,2006-09-26,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Christianity,Boarder,Merit,Healthy,,,5047
+1248,JS1C/2019/248,Tunde Khan,2006-09-28,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Christianity,Boarder,Need-based,Vision Impairment,,,5048
+1249,JS1C/2019/249,Aisha Smith,2005-02-20,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Christianity,Day Student,Merit,Vision Impairment,12.51,Bus,5049
+1250,JS1C/2019/250,Tunde Smith,2006-05-21,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Christianity,Day Student,,Asthma,16.3,Walk,5050
+1251,JS1C/2019/251,Tunde Adedayo,2006-04-29,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Christianity,Day Student,Need-based,Vision Impairment,17.38,Bus,5051
+1252,JS1C/2019/252,Samuel Ali,2005-06-14,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Christianity,Day Student,,Vision Impairment,16.72,Bus,5052
+1253,JS1C/2019/253,Aisha Abdullahi,2006-10-20,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Christianity,Day Student,Need-based,Vision Impairment,13.48,Bus,5053
+1254,JS1C/2019/254,Olivia Abdullahi,2006-02-22,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Islam,Boarder,Merit,Healthy,,,5054
+1255,JS1C/2019/255,Aisha John,2006-02-17,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Christianity,Day Student,,Vision Impairment,8.3,Bicycle,5055
+1256,JS1C/2019/256,Samuel Ibrahim,2006-08-30,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Christianity,Day Student,Merit,Healthy,1.79,Bus,5056
+1257,JS1C/2019/257,Joy Abdullahi,2006-11-14,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Islam,Day Student,Merit,Asthma,12.57,Bicycle,5057
+1258,JS1C/2019/258,Fatima John,2005-07-18,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Day Student,,Vision Impairment,4.72,Bus,5058
+1259,JS1C/2019/259,Fatima John,2006-12-05,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Islam,Boarder,Merit,Asthma,,,5059
+1260,JS1C/2019/260,Samuel Ali,2006-12-20,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Christianity,Day Student,,Vision Impairment,15.75,Walk,5060
+1261,JS1C/2019/261,Joy Khan,2006-05-23,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Day Student,Need-based,Healthy,5.75,Bus,5061
+1262,JS1C/2019/262,Joy Abdullahi,2006-04-09,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Boarder,Need-based,Asthma,,,5062
+1263,JS1C/2019/263,Fatima Doe,2006-11-09,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Islam,Day Student,Need-based,Healthy,14.32,Walk,5063
+1264,JS1C/2019/264,Amina Lee,2005-09-05,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Islam,Boarder,Merit,Vision Impairment,,,5064
+1265,JS1C/2019/265,Joy Khan,2006-02-16,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Christianity,Boarder,,Healthy,,,5065
+1266,JS1C/2019/266,Aisha Lee,2005-06-29,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Christianity,Boarder,Need-based,Vision Impairment,,,5066
+1267,JS1C/2019/267,Chidi Khan,2006-05-05,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Day Student,,Healthy,16.68,Bus,5067
+1268,JS1C/2019/268,Chidi Ibrahim,2006-05-21,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Christianity,Boarder,Merit,Vision Impairment,,,5068
+1269,JS1C/2019/269,Fatima Lee,2006-05-05,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Islam,Day Student,Merit,Asthma,4.46,Bus,5069
+1270,JS1C/2019/270,Ibrahim Lee,2005-01-03,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Islam,Day Student,Merit,Asthma,3.65,Bus,5070
+1271,JS1C/2019/271,Emeka Doe,2006-11-10,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Christianity,Day Student,Merit,Asthma,17.43,Bicycle,5071
+1272,JS1C/2019/272,Samuel Okafor,2005-07-16,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Christianity,Boarder,Need-based,Healthy,,,5072
+1273,JS1C/2019/273,Chidi Khan,2005-06-21,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Day Student,Merit,Healthy,8.37,Walk,5073
+1274,JS1C/2019/274,Aisha Ali,2006-04-14,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Christianity,Boarder,Merit,Asthma,,,5074
+1275,JS1C/2019/275,Aisha Ibrahim,2006-04-21,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Day Student,,Asthma,5.62,Bicycle,5075
+1276,JS1C/2019/276,Samuel Ali,2005-10-27,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Islam,Day Student,,Vision Impairment,9.4,Walk,5076
+1277,JS1C/2019/277,Fatima Adedayo,2006-05-05,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Christianity,Day Student,Merit,Vision Impairment,16.22,Bicycle,5077
+1278,JS1C/2019/278,Chidi Okafor,2005-07-30,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Day Student,Merit,Healthy,10.78,Bicycle,5078
+1279,JS1C/2019/279,Amina Smith,2005-08-29,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Christianity,Boarder,Need-based,Healthy,,,5079
+1280,JS1C/2019/280,Joy Ibrahim,2006-11-05,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Christianity,Day Student,Merit,Healthy,13.88,Bicycle,5080
+1281,JS1C/2019/281,Ibrahim Smith,2005-07-09,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Christianity,Boarder,Merit,Healthy,,,5081
+1282,JS1C/2019/282,Emeka Okafor,2005-05-04,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Boarder,,Asthma,,,5082
+1283,JS1C/2019/283,Olivia Smith,2006-05-03,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Christianity,Day Student,Merit,Asthma,6.85,Walk,5083
+1284,JS1C/2019/284,Aisha Smith,2006-08-30,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Christianity,Boarder,Merit,Healthy,,,5084
+1285,JS1C/2019/285,Joy Smith,2006-12-08,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Christianity,Day Student,,Asthma,9.55,Bus,5085
+1286,JS1C/2019/286,Samuel Khan,2006-05-17,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Day Student,Need-based,Healthy,12.06,Walk,5086
+1287,JS1C/2019/287,Olivia Ibrahim,2005-08-05,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Islam,Day Student,,Healthy,18.96,Walk,5087
+1288,JS1C/2019/288,Amina Okafor,2005-08-12,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Christianity,Day Student,,Healthy,13.48,Walk,5088
+1289,JS1C/2019/289,Chidi Abdullahi,2005-08-19,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Islam,Boarder,,Healthy,,,5089
+1290,JS1C/2019/290,Emeka Khan,2006-05-01,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Christianity,Day Student,Need-based,Healthy,9.11,Bicycle,5090
+1291,JS1C/2019/291,Aisha Okafor,2006-01-16,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Islam,Day Student,Need-based,Asthma,8.03,Bus,5091
+1292,JS1C/2019/292,Chidi Khan,2006-08-10,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Islam,Day Student,,Asthma,8.56,Walk,5092
+1293,JS1C/2019/293,Ibrahim Ali,2006-12-14,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Islam,Boarder,,Vision Impairment,,,5093
+1294,JS1C/2019/294,Amina Ibrahim,2006-05-10,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Rivers,Christianity,Day Student,,Vision Impairment,1.41,Walk,5094
+1295,JS1C/2019/295,Amina Adedayo,2006-11-24,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Kano,Islam,Day Student,,Asthma,16.96,Walk,5095
+1296,JS1C/2019/296,Tunde Ibrahim,2006-08-28,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Christianity,Boarder,Need-based,Asthma,,,5096
+1297,JS1C/2019/297,Tunde Khan,2006-07-25,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Islam,Boarder,,Healthy,,,5097
+1298,JS1C/2019/298,Tunde Abdullahi,2005-03-25,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Oyo,Islam,Boarder,,Healthy,,,5098
+1299,JS1C/2019/299,Aisha Ali,2006-10-13,Female,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Abuja,Islam,Day Student,Need-based,Asthma,18.2,Bus,5099
+1300,JS1C/2019/300,Chidi Khan,2006-05-04,Male,2019-09-15,JS1C,SS3C,Commercial,2024-07-15,Lagos,Islam,Boarder,Merit,Vision Impairment,,,5100
