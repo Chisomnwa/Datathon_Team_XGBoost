@@ -149,13 +149,100 @@ The `ResourceUsage` table tracks how students utilize school resources, such as 
 
 In this project, we designed a data model that organizes the school's data into relevant tables, ensuring efficient storage, retrieval, and analysis. The model includes tables for student performance, extracurricular activities, and resource usage, among others. Each table has carefully defined relationships, enabling a comprehensive view of each student's academic journey and resource engagement.
 
-The diagram below illustrates the structure of our data model, highlighting the relationships between key entities:
+The diagram below illustrates the structure of our data model (mapping it to snowflake schema) and highlighting the relationships between key entities:
 
-![Data Modeling Diagram](diagram.png)
+<b>Data Modeling Diagram</b>
+<img src="data_modeling_images/Physical Data Model.png">
+<br><br>
 
 As shown, we establish foreign key relationships between fact and dim tables like `FactAcademicPerformance`, `ExtraCurricularActivities`, and `ResourceUsage`, ensuring data consistency and supporting powerful cross-table queries for insights.
 
+---
+## Data Warehouse Architecture
+With the insights from the data modeling process, we go ahead to develop the data warehouse architecture, which depicts to the stakeholders, how the data flows from the source to the datawarehouse in snowflake.
+
+(Put architecture diagram here)
 
 ---
+## Data Storage, Transformation, and  Integration with DBT and Snowflake
+This project leverages *DBT (Data Build Tool)* for data transformation and *Snowflake* for data storage and integration, ensuring a robust and scalable data pipeline.
+
+### Data Storage with Snowflake
+After the raw data was provided to the team, and as recommended to the stakeholders, Snowflake was utilized as the cloud-based data warehouse for secure and scalable data storage.
+
+___Why did we choose snowflake___
+- It is cost effective
+- It allows for efficient querying and processing of large datasets, ensuring high performance and flexibility. 
+- To achieve a central repository for the school's data management and analytics, where all raw and processed data are stored.
+
+### Data Transformation and integration with DBT
+DBT is used to transform the raw data stored in Snowflake into a structured and usable format.
+
+DBT allows for defining transformation models in SQL, ensuring that data is cleaned, aggregated, and structured according to the business logic. The transformation process includes:
+
+- Data Cleansing: Removing duplicates, null values, and other inconsistencies in the raw data.
+
+- Data Aggregation: Combining and summarizing data from multiple tables to produce meaningful insights.
+
+- Data Structuring: Organizing the data into layers that are optimized for analytics and reporting. Two layers were creted with dbt during this stage ans they are:
+
+    - Staging Layer:This is where the data transformation was done. The `dbt_sec_school_schema_staging` schema is our snowflake database is the staging layer that holds all the transformed data(tables) and which are all identified by the **prefix `stg`.**
+
+    - Analytical Layer:Analytical Layer: This is the final layer that supports analytics and reporting. The transformed data from the staging layer is further refined and organized into models that are optimized for analysis. These models reside in the `dbt_sec_school_schema_analytics` schema within the Snowflake database, and the tables are identified by the **suffix `analytics`.**
+
+The integration between DBT and Snowflake ensures seamless execution of transformation models, and the transformed data is immediately available for downstream use cases such as analytics, reporting, and machine learning. 
+
+---
+
+# Final Solutions
+
+## Data AData Analytics Report
+We developed an interactive **Power BI dashboard** that highlights key insights, trends, and correlations from student performance data. The dashboard provides actionable recommendations for stakeholders to enhance candidate performance, such as identifying areas requiring targeted intervention. With clear visualizations, it empowers decision-makers to track progress and improve outcomes effectively.
+
+[View the Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYzljMjYyOWUtMzZmNi00ZDBiLThmYmItNTIxZWMxY2JjMTcxIiwidCI6Ijk4OTk4MWU1LWIxMjktNGIyNi05NzAxLWRlMzUwYmExNGYzYSJ9)
+
+## Student Performance Prediction
+
+This project involves building a machine learning model to predict student performance categories (poor, average, good, or excellent) using features like total attendance, totalresource duration, health information, socioeconomic status, parent education level, number of siblings, family structure, transport mode, qualification, years of experience, boarding status, and average score.
+
+The model was developed using CatBoost due to its efficiency in handling categorical
+data and robust performance.
+
+**Objective**
+
+ - To predict students' academic performance categories and help educators make
+data-driven decisions for improving student performance outcome
+
+**Methodology**
+
+- Data Preprocessing: Handled missing data and encoded categorical features using CatBoost's native handling. No feature scaling required.
+
+- Model Selection: CatBoost was chosen for its ability to handle categorical variables effectively and reduce overfitting.
+
+- Model Training and Evaluation
+Initially, the dataset was split into a **training set** and a **test set** to perform cross-validation and evaluate the model’s performance. CatBoost was trained on the training set and evaluated using accuracy on the test set to avoid overfitting
+and ensure generalization.
+
+However, after cross-validation and tuning the model parameters, the final model was retrained on the entire dataset to leverage all available data for optimal performance before deployment. This approach ensures that the final model is as strong as possible by learning from all the data.
+
+**Results**
+- The model achieved an accuracy of 100% in predicting student performance
+across the four categories.
+
+**Web Application**
+- The web app was built using **Streamlit.**
+- Users can input data for real-time predictions
+
+The link to the web app is: [Prediction App](https://datafest2024.streamlit.app/)
+
+---
+
+# What's Next?! E-Learning and Practice Test Platform
+
+As part of our initiative to support students in improving their academic performance, we have developed an online e-learning and practice test platform. This platform is designed for students identified as needing additional preparation based on performance predictions. It offers quizzes and learning materials to help them improve before upcoming internal and external exams.
+
+The platform, SS3 Advanced Practice Quiz, provides personalized practice by allowing students to select their class and enter their details to begin. While still under development, it serves as an essential tool for students striving to enhance their performance and excel in future assessments.
+
+You can access the platform here: [Exam Practice Platform](https://exam-test.streamlit.app/)
 
 
