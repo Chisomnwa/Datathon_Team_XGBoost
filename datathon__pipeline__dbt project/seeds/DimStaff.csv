@@ -1,0 +1,51 @@
+staff_id,full_name,subject_taught,qualification,years_of_experience,date_joined,email,role_type,job_title,is_active
+201,Adebayo Adewale,English Language,M.Ed,6,9/9/2022,adebayo.adewale@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+202,Bamgboye Eniola,English Language,B.Ed,13,6/24/2010,bamgboye.eniola@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+203,Meggision Alero,English Language,M.Ed,18,1/9/2018,meggision.alero@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+204,Chinaza Nwachukwu,Mathematics,B.Ed,5,6/25/2020,chinaza.nwachukwu@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+205,Ozigbo Chidera,Mathematics,B.Ed,11,11/6/2017,ozigbo.chidera@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+206,Adewale Akeem,Mathematics,M.Ed,17,6/27/2020,adewale.akeem@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+207,Fatimah Yusuf,Basic Science,B.Ed,1,5/8/2021,fatimah.yusuf@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+208,Nonso Dike,Basic Science,M.Ed,11,12/4/2012,nonso.dike@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+209,Sigbenu James,Basic Science,M.Ed,9,2/6/2014,sigbenu.james@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+210,Oluwakemi Okafor,Basic Technology,M.Ed,11,10/18/2018,oluwakemi.okafor@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+211,Odoh Henry,Basic Technology,B.Ed,5,10/23/2015,odoh.henry@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+212,Adebayo Hammed,Basic Technology,M.Ed,13,2/27/2019,adebayo.hammed@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+213,Chidera Ikechukwu,Social Studies,M.Ed,12,7/28/2020,chidera.ikechukwu@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+214,Nnamani Chisom,Social Studies,B.Ed,8,9/27/2017,nnamani.chisom@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+215,Jihumeto suzan,Social Studies,M.Ed,20,10/1/2010,jihumeto.suzan@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+216,Emmanuel Obi,Civic Education,M.Ed,8,6/5/2013,emmanuel.obi@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+217,Effiong Philip,Civic Education,B.Ed,2,11/5/2017,effiong.philip@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+218,Muhammed Musa,Civic Education,M.Ed,7,4/30/2010,muhammed.musa@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+219,Aisha Mohammed,Physics,B.Ed,5,10/25/2017,aisha.mohammed@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+220,Jimoh Ibrahim,Physics,M.Ed,13,9/22/2012,jimoh.ibrahim@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+221,Duru Chukwuebuka,Physics,M.Ed,19,11/28/2017,duru.chukwuebuka@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+222,Oluwaseun Olagunju,Chemistry,M.Ed,5,11/20/2019,oluwaseun.olagunju@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+223,Juba Samuel,Chemistry,M.Ed,7,5/9/2023,juba.samuel@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+224,Akinsemola Samuel,Chemistry,M.Ed,15,2/25/2016,akinsemola.samuel@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+225,Ibrahim Ali,Biology,B.Ed,6,10/1/2011,ibrahim.ali@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+226,Boniface Emanuel,Biology,M.Ed,10,1/28/2010,boniface.emmanuel@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+227,Ofoma Jessica,Biology,M.Ed,9,2/7/2012,ofoma.jessica@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+228,Oluwatosin Onabanjo,Literature-in-English,M.Ed,16,3/2/2013,oluwatosin.onabanjo@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+229,Onuba Chibuike,Literature-in-English,B.Ed,6,9/15/2011,onuba.chibuike@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+230,Okere Richard,Literature-in-English,B.Ed,3,11/10/2023,okere.richard@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+231,Adewale Ogundipe,Government,M.Ed,16,3/2/2013,adewale.ogundipe@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+232,Chinwe Okafor,Government,B.Ed,6,9/15/2011,chinwe.okafor@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+233,Adewale Ogundipe,Government,M.Ed,9,3/30/2010,adewale.ogundipe@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+234,Adebayo Adetunji,History,M.Ed,8,3/2/2013,adebayo.adetunji@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+235,Chidinma Nwachukwu,History,B.Ed,2,9/15/2011,chidinma.nwachukwu@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+236,Oluwaseun Ajayi,History,M.Ed,4,3/30/2010,oluwaseun.ajayi@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+237,Emeka Okonkwo,Financial Accounting,M.Ed,11,3/2/2013,emeka.okonkwo@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+238,Ifeanyi Eze,Financial Accounting,B.Ed,3,9/15/2011,ifeanyi.eze@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+239,Fatima Abdullahi,Financial Accounting,M.Ed,6,3/30/2010,fatima.abdullahi@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+240,Bola Shobowale,Commerce,M.Ed,7,3/2/2013,bola.shobowale@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+241,Maryam Bello,Commerce,B.Ed,2,9/15/2011,maryam.bello@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+242,Samuel Akinyemi,Commerce,M.Ed,4,3/30/2010,samuel.akinyemi@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+243,Uchenna Nwosu,Economics,M.Ed,6,3/2/2013,uchennanwosu@fgcilorin.edu.ng,Teaching,Senior Teacher,TRUE
+244,Grace Adeyemi,Economics,M.Ed,15,9/15/2011,graceadeyemi@fgcilorin.edu.ng,Teaching,Head of Department,TRUE
+245,Folashade Olagunju,Economics,B.Ed,3,3/30/2010,folashadeolagunju@fgcilorin.edu.ng,Teaching,Class Teacher,TRUE
+246,Bola Adediran,,M.Sc,3,5/17/2016,bola.adediran@fgcilorin.edu.ng,Non-Teaching,Librarian,TRUE
+247,Maryam Bello,,B.Sc,10,8/4/2017,maryam.bello@fgcilorin.edu.ng,Non-Teaching,Clerk,TRUE
+248,Adeola Afolabi,,B.Sc,10,12/17/2021,adeola.afolabi@fgcilorin.edu.ng,Non-Teaching,Clerk,TRUE
+249,Halima Lawal,,M.Sc,11,7/24/2010,halima.lawal@fgcilorin.edu.ng,Non-Teaching,Librarian,TRUE
+250,Gbenga Ojo,,M.Sc,18,6/17/2022,gbenga.ojo@fgcilorin.edu.ng,Non-Teaching,Accountant,TRUE

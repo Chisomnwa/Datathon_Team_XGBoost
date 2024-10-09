@@ -1,0 +1,855 @@
+usage_id,student_id,resource_name,usage_date,start_time,duration_minutes,purpose,supervised_by
+1,1001,Computer Lab,5/29/2023,10:00:00,60,Study,223
+2,1001,Computer Lab,3/12/2023,12:30:00,30,Practical,227
+3,1002,Computer Lab,7/13/2023,10:00:00,45,Research,239
+4,1002,Science Lab,2/4/2023,10:00:00,60,Study,206
+5,1002,Computer Lab,12/15/2023,10:00:00,45,Practical,206
+6,1003,Science Lab,1/3/2023,14:00:00,30,Practical,224
+7,1003,Library,1/3/2023,14:00:00,60,Study,233
+8,1004,Library,5/21/2023,12:30:00,45,Research,240
+9,1004,Computer Lab,8/14/2023,12:30:00,45,Study,227
+10,1004,Computer Lab,3/2/2023,10:00:00,60,Practical,216
+11,1004,Computer Lab,8/8/2023,10:00:00,30,Study,222
+12,1004,Library,11/7/2023,14:00:00,30,Study,224
+13,1005,Computer Lab,6/4/2023,10:00:00,45,Practical,240
+14,1005,Computer Lab,10/24/2023,14:00:00,45,Practical,213
+15,1006,Science Lab,11/25/2023,14:00:00,45,Study,223
+16,1006,Library,1/6/2023,12:30:00,30,Study,208
+17,1006,Library,11/14/2023,14:00:00,60,Research,240
+18,1006,Science Lab,3/25/2023,10:00:00,30,Research,242
+19,1006,Science Lab,7/25/2023,12:30:00,30,Practical,209
+20,1007,Science Lab,1/28/2023,14:00:00,45,Practical,208
+21,1007,Computer Lab,1/12/2023,14:00:00,60,Research,227
+22,1007,Science Lab,11/30/2023,12:30:00,30,Study,209
+23,1007,Science Lab,12/14/2023,12:30:00,45,Research,202
+24,1007,Library,4/3/2023,14:00:00,60,Practical,209
+25,1008,Library,6/11/2023,14:00:00,60,Practical,205
+26,1008,Computer Lab,3/17/2023,10:00:00,45,Practical,207
+27,1009,Library,10/12/2023,14:00:00,30,Study,243
+28,1009,Library,3/10/2023,10:00:00,45,Study,228
+29,1009,Computer Lab,11/2/2023,12:30:00,45,Research,203
+30,1009,Science Lab,7/6/2023,12:30:00,60,Research,202
+31,1009,Computer Lab,1/29/2023,10:00:00,30,Research,228
+32,1010,Computer Lab,6/10/2023,12:30:00,60,Study,215
+33,1010,Science Lab,6/12/2023,12:30:00,60,Research,232
+34,1010,Science Lab,4/12/2023,12:30:00,45,Practical,243
+35,1011,Science Lab,6/27/2023,12:30:00,30,Study,221
+36,1011,Library,12/12/2023,12:30:00,60,Practical,234
+37,1011,Library,7/11/2023,12:30:00,30,Practical,227
+38,1011,Science Lab,1/21/2023,12:30:00,60,Practical,237
+39,1012,Computer Lab,9/24/2023,12:30:00,45,Study,217
+40,1012,Science Lab,7/4/2023,10:00:00,45,Study,221
+41,1012,Library,6/5/2023,12:30:00,30,Practical,220
+42,1013,Library,10/6/2023,14:00:00,60,Research,225
+43,1013,Science Lab,7/6/2023,10:00:00,60,Research,212
+44,1013,Science Lab,9/23/2023,14:00:00,60,Study,208
+45,1014,Library,1/16/2023,12:30:00,45,Practical,241
+46,1015,Science Lab,2/8/2023,10:00:00,45,Research,201
+47,1015,Science Lab,9/2/2023,10:00:00,45,Practical,228
+48,1016,Library,5/8/2023,12:30:00,30,Study,239
+49,1016,Library,8/2/2023,14:00:00,30,Study,213
+50,1016,Science Lab,6/9/2023,10:00:00,45,Practical,238
+51,1016,Science Lab,9/7/2023,12:30:00,60,Practical,206
+52,1017,Library,11/17/2023,10:00:00,30,Practical,230
+53,1017,Computer Lab,2/3/2023,12:30:00,60,Study,203
+54,1018,Science Lab,11/13/2023,10:00:00,45,Research,242
+55,1018,Library,2/11/2023,14:00:00,30,Study,231
+56,1018,Library,7/8/2023,10:00:00,60,Research,225
+57,1018,Computer Lab,5/31/2023,12:30:00,45,Study,244
+58,1019,Science Lab,8/16/2023,10:00:00,30,Practical,220
+59,1020,Science Lab,5/8/2023,14:00:00,30,Research,215
+60,1021,Science Lab,12/9/2023,12:30:00,45,Practical,226
+61,1022,Science Lab,12/29/2023,14:00:00,60,Practical,233
+62,1023,Computer Lab,2/28/2023,12:30:00,30,Practical,238
+63,1023,Science Lab,4/26/2023,12:30:00,45,Practical,211
+64,1023,Science Lab,4/23/2023,10:00:00,45,Study,208
+65,1023,Library,5/6/2023,14:00:00,30,Study,240
+66,1024,Computer Lab,3/11/2023,14:00:00,60,Study,233
+67,1025,Library,10/22/2023,14:00:00,30,Research,230
+68,1025,Library,3/20/2023,12:30:00,45,Research,215
+69,1026,Library,6/15/2023,14:00:00,60,Practical,222
+70,1027,Science Lab,5/12/2023,12:30:00,60,Study,236
+71,1027,Computer Lab,8/8/2023,14:00:00,45,Research,244
+72,1027,Computer Lab,6/8/2023,12:30:00,60,Study,233
+73,1027,Library,8/6/2023,10:00:00,45,Study,209
+74,1028,Science Lab,8/9/2023,12:30:00,45,Research,205
+75,1028,Science Lab,6/3/2023,14:00:00,30,Study,219
+76,1028,Science Lab,9/15/2023,14:00:00,30,Study,239
+77,1028,Library,4/16/2023,10:00:00,30,Research,232
+78,1028,Library,2/12/2023,12:30:00,30,Practical,244
+79,1029,Library,5/21/2023,14:00:00,45,Study,244
+80,1030,Science Lab,1/17/2023,14:00:00,30,Research,203
+81,1030,Library,8/31/2023,14:00:00,45,Study,213
+82,1031,Science Lab,9/19/2023,12:30:00,30,Practical,239
+83,1031,Science Lab,1/26/2023,12:30:00,60,Study,234
+84,1031,Computer Lab,6/12/2023,14:00:00,60,Practical,236
+85,1032,Science Lab,2/12/2023,10:00:00,30,Study,245
+86,1032,Science Lab,4/7/2023,10:00:00,30,Study,227
+87,1032,Library,4/21/2023,10:00:00,30,Research,241
+88,1032,Science Lab,6/3/2023,10:00:00,60,Study,232
+89,1033,Computer Lab,3/17/2023,14:00:00,60,Research,228
+90,1033,Computer Lab,5/25/2023,14:00:00,45,Practical,237
+91,1033,Science Lab,2/5/2023,10:00:00,30,Practical,230
+92,1033,Science Lab,12/28/2023,10:00:00,45,Research,204
+93,1033,Library,9/26/2023,10:00:00,60,Study,212
+94,1034,Computer Lab,9/22/2023,12:30:00,60,Study,231
+95,1035,Library,7/27/2023,10:00:00,45,Study,209
+96,1035,Computer Lab,7/6/2023,10:00:00,30,Research,228
+97,1036,Science Lab,8/20/2023,14:00:00,45,Study,218
+98,1036,Science Lab,12/17/2023,10:00:00,45,Practical,237
+99,1036,Computer Lab,12/31/2023,12:30:00,60,Practical,212
+100,1036,Library,2/21/2023,12:30:00,30,Study,226
+101,1037,Computer Lab,5/9/2023,12:30:00,60,Research,220
+102,1038,Computer Lab,6/18/2023,12:30:00,30,Research,205
+103,1038,Library,1/12/2023,10:00:00,30,Practical,232
+104,1038,Computer Lab,12/17/2023,12:30:00,60,Study,218
+105,1038,Science Lab,6/17/2023,10:00:00,45,Study,214
+106,1039,Library,8/4/2023,12:30:00,45,Study,210
+107,1039,Science Lab,2/9/2023,10:00:00,30,Practical,236
+108,1040,Computer Lab,6/10/2023,12:30:00,45,Study,201
+109,1040,Computer Lab,2/12/2023,10:00:00,30,Practical,207
+110,1040,Computer Lab,2/24/2023,12:30:00,30,Practical,227
+111,1040,Science Lab,6/17/2023,12:30:00,30,Research,209
+112,1041,Library,8/4/2023,14:00:00,30,Study,222
+113,1042,Library,11/21/2023,14:00:00,60,Study,239
+114,1042,Science Lab,5/13/2023,12:30:00,60,Research,227
+115,1042,Computer Lab,10/24/2023,10:00:00,30,Study,227
+116,1042,Library,4/17/2023,10:00:00,45,Practical,204
+117,1042,Science Lab,3/27/2023,14:00:00,30,Research,219
+118,1043,Library,3/6/2023,12:30:00,45,Study,242
+119,1044,Computer Lab,7/19/2023,12:30:00,60,Practical,222
+120,1044,Science Lab,9/12/2023,10:00:00,30,Study,224
+121,1045,Library,11/5/2023,10:00:00,45,Research,223
+122,1046,Computer Lab,7/10/2023,10:00:00,30,Practical,231
+123,1046,Computer Lab,10/5/2023,12:30:00,45,Study,235
+124,1046,Computer Lab,4/15/2023,10:00:00,45,Study,226
+125,1046,Science Lab,4/14/2023,14:00:00,45,Study,203
+126,1046,Science Lab,11/5/2023,10:00:00,30,Study,214
+127,1047,Computer Lab,1/1/2023,14:00:00,45,Study,209
+128,1047,Computer Lab,10/4/2023,12:30:00,60,Practical,206
+129,1048,Computer Lab,12/10/2023,12:30:00,30,Study,213
+130,1048,Computer Lab,1/10/2023,14:00:00,45,Practical,241
+131,1048,Library,2/27/2023,14:00:00,60,Practical,211
+132,1048,Computer Lab,12/29/2023,12:30:00,60,Practical,202
+133,1048,Library,5/2/2023,10:00:00,45,Study,211
+134,1049,Science Lab,3/14/2023,10:00:00,60,Practical,232
+135,1049,Computer Lab,7/29/2023,10:00:00,30,Study,229
+136,1050,Science Lab,12/15/2023,14:00:00,45,Research,205
+137,1050,Library,1/27/2023,12:30:00,30,Study,214
+138,1050,Library,3/30/2023,12:30:00,45,Study,221
+139,1051,Science Lab,1/17/2023,12:30:00,60,Practical,219
+140,1051,Library,5/14/2023,14:00:00,60,Research,218
+141,1051,Computer Lab,1/25/2023,12:30:00,30,Research,237
+142,1051,Library,2/14/2023,14:00:00,30,Practical,237
+143,1052,Computer Lab,11/23/2023,12:30:00,60,Research,204
+144,1052,Computer Lab,11/18/2023,10:00:00,60,Practical,216
+145,1052,Library,4/19/2023,10:00:00,60,Research,225
+146,1053,Library,4/22/2023,10:00:00,45,Practical,207
+147,1053,Library,1/14/2023,14:00:00,60,Study,229
+148,1053,Library,7/9/2023,10:00:00,30,Study,218
+149,1054,Science Lab,3/15/2023,12:30:00,60,Research,219
+150,1054,Computer Lab,1/26/2023,12:30:00,45,Study,224
+151,1054,Computer Lab,12/1/2023,10:00:00,60,Research,239
+152,1055,Science Lab,12/6/2023,12:30:00,30,Study,218
+153,1055,Library,12/24/2023,10:00:00,60,Practical,242
+154,1056,Library,3/27/2023,10:00:00,60,Practical,206
+155,1056,Science Lab,5/5/2023,10:00:00,30,Practical,218
+156,1056,Science Lab,7/5/2023,12:30:00,60,Practical,225
+157,1056,Science Lab,1/10/2023,12:30:00,60,Practical,241
+158,1057,Science Lab,8/9/2023,10:00:00,45,Practical,225
+159,1057,Library,4/16/2023,12:30:00,45,Study,239
+160,1058,Science Lab,3/31/2023,14:00:00,45,Study,233
+161,1058,Library,8/5/2023,14:00:00,45,Research,224
+162,1058,Library,6/11/2023,12:30:00,45,Practical,212
+163,1059,Science Lab,5/12/2023,10:00:00,30,Practical,221
+164,1060,Library,12/21/2023,10:00:00,45,Study,201
+165,1060,Computer Lab,3/27/2023,12:30:00,45,Practical,242
+166,1061,Science Lab,1/13/2023,10:00:00,45,Study,228
+167,1061,Science Lab,2/16/2023,10:00:00,30,Practical,243
+168,1061,Library,7/25/2023,14:00:00,30,Study,231
+169,1061,Computer Lab,10/22/2023,10:00:00,60,Research,225
+170,1061,Computer Lab,12/10/2023,14:00:00,60,Research,228
+171,1062,Library,10/20/2023,12:30:00,45,Study,243
+172,1063,Library,6/1/2023,14:00:00,60,Study,234
+173,1063,Science Lab,3/7/2023,12:30:00,45,Study,201
+174,1064,Science Lab,10/5/2023,10:00:00,60,Research,226
+175,1064,Computer Lab,9/10/2023,14:00:00,60,Research,226
+176,1064,Science Lab,2/4/2023,14:00:00,30,Study,240
+177,1064,Computer Lab,8/12/2023,12:30:00,45,Research,227
+178,1065,Science Lab,3/24/2023,14:00:00,60,Practical,217
+179,1065,Science Lab,2/15/2023,12:30:00,30,Practical,215
+180,1065,Science Lab,9/15/2023,14:00:00,60,Research,221
+181,1065,Computer Lab,9/17/2023,14:00:00,30,Research,245
+182,1066,Computer Lab,2/4/2023,14:00:00,45,Practical,216
+183,1066,Library,5/16/2023,12:30:00,45,Practical,228
+184,1066,Library,10/3/2023,12:30:00,60,Study,237
+185,1066,Computer Lab,12/1/2023,10:00:00,45,Practical,219
+186,1067,Computer Lab,5/16/2023,10:00:00,60,Study,220
+187,1067,Library,1/7/2023,10:00:00,45,Study,217
+188,1067,Library,4/5/2023,10:00:00,60,Research,245
+189,1067,Library,10/26/2023,14:00:00,60,Practical,244
+190,1068,Computer Lab,4/2/2023,14:00:00,45,Study,245
+191,1069,Computer Lab,1/1/2023,12:30:00,60,Practical,237
+192,1069,Science Lab,2/6/2023,14:00:00,30,Study,220
+193,1069,Library,9/24/2023,10:00:00,30,Research,209
+194,1069,Computer Lab,11/9/2023,14:00:00,45,Research,233
+195,1070,Science Lab,5/8/2023,12:30:00,45,Research,228
+196,1070,Library,8/11/2023,12:30:00,30,Research,205
+197,1070,Library,5/22/2023,14:00:00,30,Study,235
+198,1071,Library,8/25/2023,10:00:00,60,Practical,236
+199,1071,Library,1/23/2023,10:00:00,30,Practical,243
+200,1071,Computer Lab,11/5/2023,10:00:00,60,Practical,208
+201,1071,Science Lab,10/10/2023,14:00:00,60,Research,209
+202,1072,Library,8/27/2023,10:00:00,60,Research,203
+203,1073,Science Lab,5/13/2023,10:00:00,60,Study,209
+204,1074,Computer Lab,9/2/2023,10:00:00,60,Practical,221
+205,1074,Computer Lab,3/24/2023,12:30:00,60,Research,230
+206,1074,Library,3/15/2023,14:00:00,30,Study,212
+207,1074,Computer Lab,5/17/2023,12:30:00,30,Research,216
+208,1074,Science Lab,11/26/2023,14:00:00,60,Practical,227
+209,1075,Science Lab,12/7/2023,10:00:00,30,Practical,235
+210,1075,Library,10/21/2023,10:00:00,30,Study,230
+211,1075,Library,2/21/2023,12:30:00,60,Practical,218
+212,1076,Library,3/31/2023,12:30:00,30,Practical,228
+213,1076,Computer Lab,11/1/2023,14:00:00,30,Practical,206
+214,1076,Computer Lab,4/20/2023,14:00:00,30,Study,212
+215,1076,Library,8/28/2023,10:00:00,45,Research,238
+216,1077,Library,10/2/2023,12:30:00,45,Practical,203
+217,1077,Library,12/15/2023,14:00:00,60,Study,234
+218,1077,Computer Lab,12/14/2023,12:30:00,60,Practical,209
+219,1077,Library,3/18/2023,12:30:00,45,Practical,227
+220,1078,Computer Lab,1/14/2023,12:30:00,60,Research,207
+221,1078,Library,1/30/2023,14:00:00,60,Practical,212
+222,1078,Science Lab,4/13/2023,12:30:00,45,Practical,237
+223,1079,Computer Lab,3/25/2023,10:00:00,45,Research,238
+224,1079,Science Lab,4/19/2023,14:00:00,60,Practical,235
+225,1079,Computer Lab,12/10/2023,14:00:00,45,Research,216
+226,1079,Computer Lab,4/22/2023,10:00:00,30,Practical,223
+227,1080,Library,1/20/2023,12:30:00,30,Research,203
+228,1081,Science Lab,1/30/2023,14:00:00,30,Research,217
+229,1081,Science Lab,11/1/2023,14:00:00,45,Study,245
+230,1081,Science Lab,11/2/2023,14:00:00,45,Research,237
+231,1081,Computer Lab,11/1/2023,14:00:00,30,Study,217
+232,1082,Computer Lab,12/28/2023,10:00:00,45,Study,212
+233,1082,Science Lab,8/17/2023,10:00:00,45,Research,223
+234,1083,Library,12/18/2023,14:00:00,60,Research,219
+235,1083,Library,7/21/2023,14:00:00,45,Study,242
+236,1084,Computer Lab,4/7/2023,10:00:00,60,Practical,221
+237,1084,Science Lab,7/6/2023,10:00:00,45,Practical,206
+238,1084,Science Lab,1/23/2023,12:30:00,30,Study,241
+239,1085,Library,7/26/2023,10:00:00,60,Study,209
+240,1085,Library,8/22/2023,14:00:00,30,Practical,225
+241,1086,Library,2/19/2023,14:00:00,60,Study,217
+242,1087,Computer Lab,8/23/2023,14:00:00,30,Practical,226
+243,1087,Science Lab,8/22/2023,14:00:00,45,Practical,207
+244,1088,Library,7/29/2023,10:00:00,60,Study,222
+245,1088,Computer Lab,3/8/2023,10:00:00,60,Practical,201
+246,1088,Computer Lab,1/6/2023,12:30:00,60,Research,202
+247,1088,Computer Lab,9/14/2023,12:30:00,45,Research,213
+248,1089,Library,9/2/2023,12:30:00,45,Study,208
+249,1089,Library,10/8/2023,10:00:00,45,Research,237
+250,1089,Computer Lab,12/1/2023,10:00:00,60,Practical,222
+251,1090,Library,3/31/2023,10:00:00,30,Research,234
+252,1090,Computer Lab,10/7/2023,10:00:00,60,Practical,214
+253,1090,Library,7/9/2023,10:00:00,45,Practical,241
+254,1091,Computer Lab,4/1/2023,12:30:00,60,Study,224
+255,1091,Science Lab,5/27/2023,12:30:00,30,Study,205
+256,1091,Computer Lab,4/2/2023,12:30:00,60,Study,237
+257,1091,Science Lab,3/5/2023,12:30:00,45,Practical,202
+258,1091,Library,7/13/2023,12:30:00,30,Practical,225
+259,1092,Library,6/17/2023,14:00:00,30,Research,225
+260,1093,Computer Lab,6/22/2023,14:00:00,30,Study,214
+261,1093,Computer Lab,11/25/2023,10:00:00,45,Study,203
+262,1094,Science Lab,5/19/2023,12:30:00,30,Study,234
+263,1095,Computer Lab,11/8/2023,12:30:00,60,Study,203
+264,1095,Science Lab,5/30/2023,14:00:00,60,Research,238
+265,1096,Computer Lab,5/29/2023,10:00:00,45,Study,202
+266,1096,Library,4/25/2023,14:00:00,30,Study,240
+267,1097,Library,1/15/2023,10:00:00,30,Practical,241
+268,1097,Computer Lab,11/27/2023,14:00:00,45,Practical,226
+269,1097,Library,10/18/2023,10:00:00,30,Study,243
+270,1097,Science Lab,10/22/2023,14:00:00,30,Practical,221
+271,1098,Science Lab,2/12/2023,10:00:00,60,Research,211
+272,1098,Science Lab,5/21/2023,12:30:00,45,Research,236
+273,1098,Computer Lab,4/17/2023,14:00:00,60,Practical,207
+274,1099,Computer Lab,2/10/2023,10:00:00,60,Research,218
+275,1099,Library,2/20/2023,10:00:00,30,Practical,206
+276,1099,Science Lab,2/13/2023,14:00:00,45,Research,229
+277,1099,Science Lab,10/28/2023,14:00:00,30,Practical,243
+278,1099,Computer Lab,9/14/2023,14:00:00,45,Practical,210
+279,1100,Science Lab,9/9/2023,14:00:00,45,Study,233
+280,1100,Library,10/8/2023,10:00:00,60,Practical,242
+281,1100,Library,11/6/2023,10:00:00,60,Study,241
+282,1100,Library,2/18/2023,10:00:00,45,Study,232
+283,1101,Science Lab,4/2/2023,14:00:00,30,Study,229
+284,1101,Science Lab,12/12/2023,12:30:00,60,Study,231
+285,1101,Science Lab,7/24/2023,10:00:00,45,Study,226
+286,1101,Computer Lab,8/18/2023,14:00:00,30,Practical,237
+287,1101,Library,3/14/2023,12:30:00,60,Research,222
+288,1102,Library,3/16/2023,12:30:00,45,Study,242
+289,1102,Library,5/24/2023,10:00:00,45,Practical,216
+290,1102,Science Lab,1/2/2023,12:30:00,60,Research,227
+291,1103,Computer Lab,9/12/2023,12:30:00,60,Research,242
+292,1104,Computer Lab,2/27/2023,14:00:00,60,Study,233
+293,1105,Computer Lab,2/7/2023,12:30:00,45,Research,209
+294,1105,Library,5/12/2023,14:00:00,30,Research,216
+295,1105,Computer Lab,3/8/2023,12:30:00,60,Study,205
+296,1105,Library,4/10/2023,14:00:00,45,Practical,207
+297,1106,Science Lab,4/11/2023,14:00:00,60,Study,231
+298,1106,Computer Lab,3/26/2023,10:00:00,60,Research,214
+299,1106,Library,6/25/2023,14:00:00,45,Practical,204
+300,1106,Computer Lab,4/14/2023,14:00:00,45,Research,234
+301,1106,Science Lab,12/12/2023,14:00:00,45,Practical,210
+302,1107,Science Lab,6/23/2023,12:30:00,45,Study,207
+303,1107,Library,12/19/2023,12:30:00,45,Study,236
+304,1108,Library,9/24/2023,12:30:00,60,Research,226
+305,1108,Library,7/29/2023,12:30:00,60,Research,242
+306,1109,Science Lab,3/12/2023,10:00:00,60,Study,244
+307,1110,Computer Lab,12/13/2023,12:30:00,45,Research,205
+308,1110,Science Lab,1/22/2023,12:30:00,30,Research,224
+309,1110,Science Lab,11/21/2023,10:00:00,30,Research,243
+310,1110,Computer Lab,11/7/2023,14:00:00,45,Research,221
+311,1110,Library,7/5/2023,14:00:00,60,Study,207
+312,1111,Library,11/24/2023,12:30:00,45,Research,215
+313,1111,Science Lab,8/12/2023,14:00:00,30,Study,225
+314,1111,Library,4/24/2023,10:00:00,30,Study,236
+315,1112,Library,1/17/2023,12:30:00,30,Research,216
+316,1112,Library,7/19/2023,14:00:00,60,Practical,230
+317,1113,Science Lab,2/10/2023,12:30:00,45,Research,226
+318,1113,Science Lab,5/31/2023,12:30:00,60,Study,238
+319,1113,Computer Lab,6/1/2023,14:00:00,30,Study,219
+320,1113,Computer Lab,2/22/2023,14:00:00,60,Research,223
+321,1113,Library,6/20/2023,14:00:00,45,Research,205
+322,1114,Library,12/5/2023,14:00:00,60,Research,229
+323,1114,Computer Lab,12/3/2023,10:00:00,30,Research,218
+324,1114,Science Lab,11/5/2023,12:30:00,30,Study,230
+325,1115,Library,6/26/2023,14:00:00,30,Practical,239
+326,1115,Library,2/18/2023,10:00:00,45,Practical,243
+327,1116,Library,1/28/2023,12:30:00,30,Research,226
+328,1116,Library,6/9/2023,12:30:00,45,Practical,228
+329,1116,Science Lab,9/24/2023,14:00:00,30,Study,212
+330,1117,Library,1/7/2023,10:00:00,45,Research,227
+331,1118,Science Lab,2/8/2023,10:00:00,60,Study,244
+332,1118,Computer Lab,6/19/2023,10:00:00,60,Research,211
+333,1118,Library,11/14/2023,14:00:00,30,Practical,220
+334,1118,Library,7/24/2023,10:00:00,30,Study,240
+335,1119,Computer Lab,6/29/2023,10:00:00,60,Research,216
+336,1119,Science Lab,11/17/2023,12:30:00,60,Research,231
+337,1119,Library,2/7/2023,10:00:00,45,Study,210
+338,1119,Computer Lab,6/11/2023,10:00:00,45,Study,206
+339,1119,Computer Lab,2/14/2023,10:00:00,45,Study,203
+340,1120,Library,4/14/2023,10:00:00,30,Research,214
+341,1120,Computer Lab,4/25/2023,10:00:00,60,Practical,208
+342,1120,Science Lab,12/24/2023,12:30:00,45,Study,229
+343,1120,Library,12/2/2023,10:00:00,45,Research,220
+344,1120,Computer Lab,12/14/2023,10:00:00,60,Study,221
+345,1121,Science Lab,1/30/2023,10:00:00,45,Practical,230
+346,1121,Science Lab,4/16/2023,10:00:00,45,Practical,226
+347,1122,Library,12/22/2023,10:00:00,60,Research,222
+348,1122,Science Lab,6/11/2023,10:00:00,30,Research,203
+349,1122,Library,8/14/2023,10:00:00,30,Research,227
+350,1122,Computer Lab,1/15/2023,14:00:00,60,Study,229
+351,1123,Computer Lab,2/4/2023,12:30:00,60,Research,210
+352,1123,Science Lab,7/11/2023,14:00:00,60,Research,219
+353,1123,Science Lab,6/9/2023,12:30:00,45,Practical,245
+354,1124,Science Lab,8/28/2023,12:30:00,45,Practical,232
+355,1125,Computer Lab,2/16/2023,14:00:00,45,Practical,232
+356,1125,Library,1/14/2023,12:30:00,60,Study,206
+357,1125,Library,10/4/2023,10:00:00,45,Study,211
+358,1125,Science Lab,1/7/2023,10:00:00,30,Research,235
+359,1126,Computer Lab,5/23/2023,14:00:00,60,Practical,204
+360,1126,Science Lab,9/6/2023,10:00:00,60,Study,239
+361,1126,Science Lab,2/16/2023,14:00:00,30,Study,214
+362,1126,Science Lab,4/6/2023,14:00:00,45,Study,242
+363,1127,Science Lab,5/11/2023,12:30:00,60,Research,212
+364,1127,Science Lab,12/22/2023,12:30:00,45,Research,220
+365,1128,Science Lab,6/22/2023,12:30:00,45,Research,244
+366,1129,Library,4/15/2023,12:30:00,45,Practical,226
+367,1129,Science Lab,12/19/2023,12:30:00,30,Study,241
+368,1129,Science Lab,5/29/2023,14:00:00,45,Research,212
+369,1129,Science Lab,7/11/2023,12:30:00,60,Study,211
+370,1129,Library,7/9/2023,14:00:00,60,Practical,215
+371,1130,Computer Lab,2/3/2023,14:00:00,45,Study,201
+372,1130,Science Lab,6/7/2023,14:00:00,30,Study,210
+373,1130,Computer Lab,1/2/2023,10:00:00,60,Research,245
+374,1130,Science Lab,11/12/2023,14:00:00,30,Practical,222
+375,1130,Library,5/27/2023,10:00:00,45,Practical,210
+376,1131,Library,11/22/2023,10:00:00,60,Practical,220
+377,1132,Computer Lab,10/23/2023,12:30:00,60,Research,245
+378,1132,Library,2/2/2023,14:00:00,60,Practical,234
+379,1132,Science Lab,3/9/2023,14:00:00,45,Practical,231
+380,1132,Library,5/1/2023,14:00:00,45,Research,242
+381,1133,Computer Lab,12/30/2023,12:30:00,60,Study,238
+382,1134,Science Lab,2/26/2023,14:00:00,45,Practical,242
+383,1135,Science Lab,1/24/2023,12:30:00,30,Practical,201
+384,1135,Computer Lab,10/16/2023,14:00:00,45,Practical,242
+385,1136,Computer Lab,7/14/2023,14:00:00,45,Study,218
+386,1136,Library,10/12/2023,14:00:00,60,Practical,235
+387,1137,Science Lab,11/9/2023,14:00:00,60,Study,238
+388,1137,Computer Lab,12/31/2023,10:00:00,30,Study,230
+389,1137,Science Lab,5/27/2023,12:30:00,30,Practical,239
+390,1137,Library,5/23/2023,14:00:00,60,Practical,219
+391,1137,Computer Lab,6/11/2023,12:30:00,60,Study,223
+392,1138,Computer Lab,1/31/2023,14:00:00,60,Research,224
+393,1139,Library,11/11/2023,12:30:00,60,Study,212
+394,1139,Library,5/23/2023,12:30:00,60,Practical,206
+395,1139,Computer Lab,1/7/2023,12:30:00,30,Research,222
+396,1139,Science Lab,7/15/2023,12:30:00,60,Research,230
+397,1140,Computer Lab,8/7/2023,14:00:00,30,Practical,219
+398,1141,Library,6/8/2023,10:00:00,45,Research,215
+399,1142,Computer Lab,3/20/2023,10:00:00,30,Study,244
+400,1143,Library,2/11/2023,14:00:00,30,Practical,229
+401,1143,Computer Lab,8/5/2023,12:30:00,60,Research,206
+402,1143,Computer Lab,10/2/2023,12:30:00,30,Study,223
+403,1144,Library,2/2/2023,12:30:00,45,Practical,233
+404,1144,Computer Lab,10/8/2023,10:00:00,30,Study,234
+405,1144,Computer Lab,11/7/2023,14:00:00,45,Study,207
+406,1144,Science Lab,5/23/2023,12:30:00,30,Study,210
+407,1145,Library,10/24/2023,12:30:00,45,Research,211
+408,1146,Library,1/13/2023,14:00:00,45,Practical,243
+409,1146,Library,3/5/2023,10:00:00,30,Research,215
+410,1146,Science Lab,8/10/2023,14:00:00,45,Study,215
+411,1146,Library,8/6/2023,14:00:00,30,Practical,238
+412,1146,Library,6/3/2023,10:00:00,60,Study,218
+413,1147,Library,8/12/2023,12:30:00,45,Research,237
+414,1147,Science Lab,8/16/2023,10:00:00,45,Practical,216
+415,1147,Science Lab,1/7/2023,14:00:00,60,Research,212
+416,1148,Science Lab,8/25/2023,10:00:00,30,Practical,215
+417,1149,Computer Lab,3/12/2023,14:00:00,45,Practical,232
+418,1150,Science Lab,6/24/2023,10:00:00,60,Practical,231
+419,1150,Computer Lab,4/1/2023,10:00:00,45,Study,204
+420,1150,Science Lab,4/7/2023,12:30:00,60,Study,235
+421,1150,Computer Lab,1/13/2023,12:30:00,45,Practical,220
+422,1151,Library,5/28/2023,14:00:00,30,Practical,204
+423,1151,Library,12/24/2023,10:00:00,60,Study,212
+424,1152,Library,7/6/2023,12:30:00,60,Research,230
+425,1152,Science Lab,11/7/2023,14:00:00,30,Study,212
+426,1153,Library,3/9/2023,10:00:00,30,Research,206
+427,1154,Science Lab,11/22/2023,14:00:00,30,Study,211
+428,1155,Science Lab,8/26/2023,12:30:00,30,Research,208
+429,1155,Computer Lab,5/13/2023,12:30:00,45,Research,219
+430,1155,Computer Lab,12/2/2023,14:00:00,45,Research,226
+431,1155,Library,3/28/2023,12:30:00,45,Study,209
+432,1155,Library,10/1/2023,14:00:00,45,Research,241
+433,1156,Library,2/20/2023,14:00:00,45,Practical,212
+434,1156,Library,5/14/2023,12:30:00,60,Study,226
+435,1157,Science Lab,3/24/2023,10:00:00,30,Practical,223
+436,1157,Science Lab,4/22/2023,10:00:00,60,Practical,202
+437,1157,Library,3/31/2023,10:00:00,30,Study,216
+438,1158,Science Lab,11/8/2023,12:30:00,45,Research,221
+439,1158,Library,6/14/2023,14:00:00,60,Study,215
+440,1158,Science Lab,3/12/2023,10:00:00,30,Study,219
+441,1158,Computer Lab,12/17/2023,14:00:00,30,Research,242
+442,1159,Library,5/30/2023,10:00:00,45,Practical,240
+443,1159,Science Lab,9/2/2023,14:00:00,30,Research,238
+444,1159,Science Lab,10/19/2023,14:00:00,30,Research,205
+445,1159,Library,12/29/2023,12:30:00,30,Research,222
+446,1160,Science Lab,3/28/2023,12:30:00,45,Research,213
+447,1160,Science Lab,9/18/2023,12:30:00,60,Practical,210
+448,1160,Computer Lab,8/9/2023,14:00:00,45,Practical,201
+449,1160,Library,11/5/2023,12:30:00,60,Practical,226
+450,1160,Library,10/27/2023,14:00:00,45,Study,220
+451,1161,Science Lab,7/30/2023,12:30:00,45,Research,241
+452,1161,Computer Lab,11/6/2023,10:00:00,30,Research,231
+453,1162,Computer Lab,2/7/2023,14:00:00,60,Research,216
+454,1162,Computer Lab,11/25/2023,10:00:00,45,Research,204
+455,1163,Library,1/5/2023,10:00:00,30,Study,227
+456,1163,Computer Lab,3/30/2023,12:30:00,30,Study,208
+457,1164,Library,4/29/2023,12:30:00,30,Study,219
+458,1164,Computer Lab,10/7/2023,14:00:00,45,Study,231
+459,1164,Computer Lab,7/11/2023,14:00:00,60,Research,234
+460,1165,Library,7/25/2023,12:30:00,60,Practical,243
+461,1166,Computer Lab,1/30/2023,12:30:00,30,Study,213
+462,1166,Library,4/5/2023,10:00:00,30,Practical,245
+463,1166,Computer Lab,10/9/2023,10:00:00,30,Practical,216
+464,1166,Science Lab,9/13/2023,12:30:00,45,Research,206
+465,1166,Library,6/9/2023,10:00:00,60,Practical,224
+466,1167,Library,5/9/2023,12:30:00,60,Research,226
+467,1167,Computer Lab,4/4/2023,12:30:00,45,Study,214
+468,1167,Science Lab,5/21/2023,14:00:00,30,Research,217
+469,1168,Science Lab,7/3/2023,14:00:00,60,Research,236
+470,1168,Library,4/8/2023,14:00:00,45,Study,231
+471,1168,Science Lab,3/19/2023,14:00:00,45,Research,222
+472,1169,Science Lab,12/23/2023,12:30:00,30,Practical,230
+473,1169,Computer Lab,3/16/2023,12:30:00,60,Practical,240
+474,1169,Computer Lab,4/1/2023,14:00:00,60,Practical,215
+475,1169,Library,4/13/2023,14:00:00,45,Practical,215
+476,1169,Library,1/13/2023,12:30:00,30,Practical,222
+477,1170,Computer Lab,11/24/2023,14:00:00,30,Study,218
+478,1170,Computer Lab,12/3/2023,10:00:00,30,Practical,244
+479,1170,Computer Lab,11/10/2023,12:30:00,45,Research,214
+480,1171,Library,3/9/2023,12:30:00,45,Study,212
+481,1172,Computer Lab,10/24/2023,10:00:00,30,Practical,235
+482,1172,Library,10/12/2023,12:30:00,60,Research,230
+483,1172,Science Lab,2/20/2023,12:30:00,30,Research,207
+484,1172,Computer Lab,3/11/2023,14:00:00,45,Practical,224
+485,1173,Computer Lab,7/10/2023,14:00:00,60,Study,230
+486,1173,Science Lab,10/12/2023,14:00:00,30,Practical,235
+487,1174,Library,10/22/2023,12:30:00,60,Study,231
+488,1174,Computer Lab,11/14/2023,12:30:00,30,Study,208
+489,1174,Science Lab,8/27/2023,10:00:00,60,Study,243
+490,1174,Computer Lab,4/23/2023,14:00:00,30,Research,209
+491,1175,Computer Lab,11/18/2023,14:00:00,30,Research,243
+492,1175,Computer Lab,9/29/2023,14:00:00,45,Study,215
+493,1176,Library,8/21/2023,14:00:00,60,Research,238
+494,1176,Library,3/3/2023,14:00:00,30,Research,213
+495,1176,Library,1/16/2023,12:30:00,30,Research,220
+496,1177,Computer Lab,1/10/2023,14:00:00,30,Practical,221
+497,1178,Library,10/4/2023,14:00:00,30,Research,240
+498,1179,Computer Lab,4/9/2023,10:00:00,30,Research,208
+499,1179,Science Lab,5/25/2023,14:00:00,60,Study,206
+500,1180,Science Lab,8/15/2023,10:00:00,60,Study,227
+501,1180,Library,7/2/2023,12:30:00,30,Study,205
+502,1180,Library,9/14/2023,12:30:00,45,Practical,219
+503,1180,Computer Lab,9/18/2023,10:00:00,30,Study,218
+504,1180,Computer Lab,10/31/2023,14:00:00,45,Research,240
+505,1181,Computer Lab,9/6/2023,14:00:00,30,Study,231
+506,1181,Library,12/5/2023,12:30:00,30,Practical,201
+507,1182,Library,2/24/2023,10:00:00,30,Research,205
+508,1182,Computer Lab,8/29/2023,12:30:00,30,Research,213
+509,1183,Library,12/31/2023,14:00:00,45,Study,222
+510,1183,Science Lab,5/1/2023,14:00:00,45,Research,231
+511,1183,Science Lab,4/27/2023,12:30:00,30,Practical,231
+512,1184,Computer Lab,8/10/2023,10:00:00,60,Research,218
+513,1184,Library,10/18/2023,10:00:00,60,Research,224
+514,1185,Science Lab,8/8/2023,12:30:00,60,Research,228
+515,1185,Science Lab,12/29/2023,14:00:00,60,Practical,241
+516,1186,Library,3/9/2023,10:00:00,45,Practical,209
+517,1186,Library,10/28/2023,12:30:00,45,Study,220
+518,1186,Computer Lab,9/21/2023,12:30:00,60,Study,240
+519,1186,Library,9/2/2023,10:00:00,45,Practical,230
+520,1186,Library,12/6/2023,12:30:00,30,Practical,225
+521,1187,Library,11/15/2023,14:00:00,45,Practical,207
+522,1187,Computer Lab,4/5/2023,10:00:00,45,Research,225
+523,1187,Science Lab,7/4/2023,12:30:00,60,Practical,214
+524,1187,Library,8/21/2023,14:00:00,60,Study,210
+525,1187,Computer Lab,6/28/2023,14:00:00,60,Research,236
+526,1188,Computer Lab,4/18/2023,14:00:00,45,Practical,208
+527,1188,Computer Lab,4/14/2023,14:00:00,30,Practical,243
+528,1188,Science Lab,5/5/2023,10:00:00,60,Practical,212
+529,1188,Computer Lab,6/4/2023,10:00:00,60,Study,208
+530,1189,Library,1/9/2023,14:00:00,60,Research,245
+531,1189,Science Lab,6/28/2023,12:30:00,60,Practical,225
+532,1189,Science Lab,7/4/2023,12:30:00,30,Research,209
+533,1190,Science Lab,2/25/2023,14:00:00,60,Research,228
+534,1190,Library,1/5/2023,12:30:00,45,Study,228
+535,1190,Science Lab,12/27/2023,12:30:00,45,Research,240
+536,1190,Computer Lab,2/17/2023,14:00:00,45,Research,234
+537,1191,Library,1/21/2023,14:00:00,60,Practical,214
+538,1191,Computer Lab,7/23/2023,12:30:00,45,Research,239
+539,1191,Library,9/21/2023,12:30:00,30,Study,204
+540,1192,Science Lab,10/10/2023,12:30:00,45,Practical,240
+541,1192,Science Lab,1/6/2023,12:30:00,30,Practical,245
+542,1192,Library,8/16/2023,14:00:00,60,Research,214
+543,1193,Science Lab,5/23/2023,10:00:00,60,Study,209
+544,1193,Science Lab,2/6/2023,10:00:00,60,Study,208
+545,1193,Library,1/21/2023,14:00:00,45,Practical,204
+546,1193,Library,5/28/2023,12:30:00,30,Study,221
+547,1193,Library,10/14/2023,12:30:00,60,Research,229
+548,1194,Science Lab,8/10/2023,14:00:00,60,Research,218
+549,1194,Computer Lab,10/13/2023,10:00:00,30,Practical,215
+550,1194,Library,9/16/2023,14:00:00,45,Practical,202
+551,1195,Computer Lab,12/2/2023,12:30:00,60,Practical,212
+552,1195,Computer Lab,6/8/2023,14:00:00,60,Practical,209
+553,1195,Computer Lab,8/9/2023,10:00:00,30,Practical,210
+554,1196,Computer Lab,2/26/2023,12:30:00,30,Research,233
+555,1197,Computer Lab,2/28/2023,14:00:00,60,Research,237
+556,1197,Library,12/21/2023,12:30:00,60,Study,226
+557,1197,Computer Lab,8/26/2023,14:00:00,60,Study,245
+558,1197,Computer Lab,11/9/2023,10:00:00,60,Practical,233
+559,1197,Computer Lab,4/6/2023,14:00:00,30,Practical,218
+560,1198,Science Lab,3/1/2023,10:00:00,60,Research,228
+561,1198,Library,3/17/2023,14:00:00,45,Practical,206
+562,1198,Science Lab,10/22/2023,10:00:00,45,Practical,209
+563,1198,Computer Lab,4/20/2023,10:00:00,45,Research,241
+564,1198,Library,3/15/2023,12:30:00,45,Research,242
+565,1199,Computer Lab,1/11/2023,14:00:00,60,Research,243
+566,1200,Library,8/9/2023,14:00:00,45,Research,211
+567,1200,Science Lab,12/16/2023,10:00:00,45,Study,245
+568,1200,Computer Lab,5/5/2023,10:00:00,60,Research,230
+569,1200,Computer Lab,11/11/2023,14:00:00,30,Study,212
+570,1200,Computer Lab,3/4/2023,10:00:00,60,Practical,226
+571,1201,Library,12/21/2023,10:00:00,45,Practical,228
+572,1201,Science Lab,1/14/2023,12:30:00,45,Research,219
+573,1201,Computer Lab,8/6/2023,14:00:00,45,Practical,215
+574,1202,Science Lab,1/24/2023,14:00:00,60,Study,219
+575,1202,Computer Lab,11/26/2023,10:00:00,60,Practical,221
+576,1203,Library,10/25/2023,10:00:00,60,Study,236
+577,1203,Library,5/12/2023,10:00:00,30,Practical,241
+578,1204,Science Lab,9/24/2023,12:30:00,45,Research,223
+579,1204,Computer Lab,3/10/2023,10:00:00,60,Practical,211
+580,1204,Science Lab,12/25/2023,14:00:00,60,Study,215
+581,1204,Science Lab,5/29/2023,14:00:00,30,Study,202
+582,1205,Computer Lab,4/26/2023,10:00:00,30,Practical,224
+583,1206,Science Lab,1/4/2023,10:00:00,30,Research,225
+584,1206,Computer Lab,8/14/2023,14:00:00,45,Study,225
+585,1206,Library,4/20/2023,12:30:00,60,Practical,209
+586,1206,Computer Lab,8/4/2023,12:30:00,45,Practical,215
+587,1206,Library,4/12/2023,14:00:00,45,Study,241
+588,1207,Library,1/11/2023,10:00:00,60,Study,224
+589,1208,Computer Lab,8/24/2023,12:30:00,30,Study,206
+590,1208,Computer Lab,2/8/2023,14:00:00,60,Study,244
+591,1208,Library,8/21/2023,12:30:00,45,Practical,237
+592,1208,Library,12/13/2023,14:00:00,30,Research,209
+593,1208,Computer Lab,6/26/2023,14:00:00,60,Research,241
+594,1209,Science Lab,2/6/2023,14:00:00,45,Study,218
+595,1210,Science Lab,12/18/2023,10:00:00,30,Practical,240
+596,1210,Library,1/31/2023,10:00:00,30,Research,201
+597,1210,Library,3/5/2023,14:00:00,45,Research,216
+598,1210,Library,9/14/2023,10:00:00,45,Practical,213
+599,1211,Science Lab,6/25/2023,14:00:00,45,Practical,229
+600,1211,Library,11/20/2023,12:30:00,30,Study,235
+601,1211,Library,7/13/2023,10:00:00,45,Study,205
+602,1211,Science Lab,5/12/2023,12:30:00,45,Study,206
+603,1212,Library,12/17/2023,12:30:00,30,Study,220
+604,1213,Science Lab,12/13/2023,10:00:00,60,Research,222
+605,1213,Library,11/23/2023,10:00:00,60,Practical,227
+606,1214,Computer Lab,8/18/2023,10:00:00,30,Study,231
+607,1214,Computer Lab,4/13/2023,12:30:00,30,Practical,214
+608,1214,Library,2/27/2023,14:00:00,45,Study,234
+609,1215,Library,4/30/2023,10:00:00,30,Research,241
+610,1216,Library,6/24/2023,14:00:00,30,Practical,234
+611,1216,Computer Lab,7/26/2023,14:00:00,60,Research,208
+612,1217,Library,6/16/2023,12:30:00,45,Study,240
+613,1217,Library,6/25/2023,10:00:00,30,Practical,239
+614,1217,Science Lab,8/13/2023,10:00:00,30,Research,238
+615,1218,Science Lab,7/5/2023,12:30:00,30,Research,223
+616,1218,Computer Lab,2/25/2023,12:30:00,45,Practical,221
+617,1218,Library,12/14/2023,12:30:00,30,Research,222
+618,1218,Computer Lab,10/18/2023,10:00:00,30,Practical,236
+619,1218,Library,5/27/2023,12:30:00,30,Practical,222
+620,1219,Library,8/22/2023,10:00:00,45,Practical,225
+621,1219,Science Lab,4/22/2023,14:00:00,45,Study,222
+622,1219,Computer Lab,10/28/2023,12:30:00,45,Practical,238
+623,1220,Computer Lab,12/12/2023,10:00:00,60,Practical,205
+624,1221,Science Lab,9/2/2023,14:00:00,45,Study,238
+625,1221,Computer Lab,4/21/2023,10:00:00,30,Practical,223
+626,1221,Science Lab,1/10/2023,12:30:00,60,Practical,226
+627,1221,Computer Lab,7/17/2023,10:00:00,60,Practical,202
+628,1222,Library,7/12/2023,10:00:00,30,Research,204
+629,1223,Library,6/12/2023,10:00:00,30,Research,223
+630,1223,Science Lab,7/22/2023,12:30:00,60,Research,237
+631,1223,Computer Lab,11/19/2023,14:00:00,30,Research,211
+632,1224,Library,12/28/2023,12:30:00,45,Study,206
+633,1224,Computer Lab,7/22/2023,14:00:00,60,Practical,243
+634,1225,Library,1/20/2023,12:30:00,30,Research,245
+635,1225,Science Lab,1/27/2023,12:30:00,45,Research,241
+636,1225,Computer Lab,1/13/2023,10:00:00,45,Practical,237
+637,1225,Science Lab,8/4/2023,10:00:00,30,Study,201
+638,1226,Computer Lab,8/26/2023,12:30:00,60,Practical,232
+639,1226,Science Lab,4/9/2023,10:00:00,60,Research,210
+640,1226,Computer Lab,3/1/2023,10:00:00,60,Practical,218
+641,1227,Library,10/20/2023,10:00:00,45,Study,228
+642,1227,Science Lab,4/18/2023,12:30:00,60,Study,214
+643,1227,Science Lab,7/23/2023,10:00:00,30,Research,209
+644,1227,Science Lab,5/22/2023,12:30:00,60,Practical,202
+645,1227,Science Lab,3/29/2023,12:30:00,60,Research,243
+646,1228,Computer Lab,8/5/2023,12:30:00,60,Study,206
+647,1228,Computer Lab,9/1/2023,14:00:00,60,Research,240
+648,1228,Science Lab,9/22/2023,10:00:00,60,Study,217
+649,1228,Science Lab,10/8/2023,14:00:00,30,Practical,239
+650,1229,Computer Lab,8/12/2023,14:00:00,60,Practical,216
+651,1229,Science Lab,1/16/2023,14:00:00,45,Study,202
+652,1230,Computer Lab,1/29/2023,12:30:00,30,Research,205
+653,1230,Computer Lab,8/31/2023,12:30:00,30,Practical,237
+654,1231,Science Lab,3/14/2023,10:00:00,45,Study,227
+655,1231,Computer Lab,4/21/2023,10:00:00,60,Study,208
+656,1231,Library,3/23/2023,14:00:00,60,Research,205
+657,1232,Library,6/5/2023,14:00:00,45,Study,227
+658,1232,Science Lab,7/19/2023,14:00:00,45,Research,214
+659,1233,Computer Lab,9/25/2023,14:00:00,45,Practical,235
+660,1233,Science Lab,3/15/2023,12:30:00,45,Study,223
+661,1233,Computer Lab,1/19/2023,12:30:00,60,Study,210
+662,1233,Computer Lab,9/23/2023,12:30:00,30,Research,229
+663,1233,Science Lab,12/31/2023,10:00:00,45,Study,218
+664,1234,Science Lab,2/26/2023,12:30:00,60,Research,242
+665,1234,Library,8/12/2023,14:00:00,60,Study,238
+666,1235,Computer Lab,7/4/2023,12:30:00,60,Practical,213
+667,1235,Computer Lab,11/4/2023,10:00:00,45,Research,201
+668,1235,Science Lab,3/10/2023,12:30:00,45,Study,232
+669,1235,Library,4/11/2023,10:00:00,60,Study,238
+670,1236,Science Lab,5/11/2023,10:00:00,45,Study,244
+671,1236,Computer Lab,10/10/2023,12:30:00,45,Practical,234
+672,1236,Science Lab,3/7/2023,14:00:00,30,Research,207
+673,1236,Science Lab,9/30/2023,12:30:00,30,Practical,201
+674,1237,Library,6/22/2023,10:00:00,45,Research,236
+675,1238,Library,12/21/2023,10:00:00,30,Study,238
+676,1238,Science Lab,7/21/2023,14:00:00,30,Study,216
+677,1238,Science Lab,5/21/2023,10:00:00,30,Study,240
+678,1238,Science Lab,7/5/2023,12:30:00,30,Practical,202
+679,1239,Library,10/19/2023,10:00:00,60,Practical,227
+680,1239,Library,9/26/2023,10:00:00,30,Study,221
+681,1239,Science Lab,9/16/2023,12:30:00,45,Practical,232
+682,1240,Library,9/11/2023,12:30:00,30,Study,232
+683,1240,Science Lab,10/13/2023,14:00:00,45,Study,221
+684,1240,Science Lab,4/27/2023,10:00:00,60,Study,227
+685,1240,Science Lab,4/18/2023,10:00:00,30,Research,232
+686,1240,Computer Lab,11/15/2023,10:00:00,30,Practical,214
+687,1241,Computer Lab,4/11/2023,14:00:00,45,Study,234
+688,1242,Science Lab,2/4/2023,10:00:00,45,Practical,210
+689,1242,Computer Lab,10/29/2023,12:30:00,45,Research,208
+690,1242,Science Lab,12/12/2023,10:00:00,30,Practical,202
+691,1243,Computer Lab,8/23/2023,12:30:00,30,Research,241
+692,1244,Science Lab,8/19/2023,14:00:00,60,Research,223
+693,1245,Library,5/20/2023,12:30:00,30,Practical,241
+694,1246,Computer Lab,2/10/2023,10:00:00,30,Practical,216
+695,1246,Library,2/28/2023,14:00:00,45,Study,230
+696,1246,Computer Lab,6/14/2023,12:30:00,30,Practical,230
+697,1247,Science Lab,8/25/2023,10:00:00,30,Study,234
+698,1247,Library,1/23/2023,14:00:00,30,Study,220
+699,1247,Library,11/9/2023,12:30:00,60,Practical,204
+700,1247,Computer Lab,5/2/2023,12:30:00,45,Research,201
+701,1247,Science Lab,5/20/2023,10:00:00,45,Study,220
+702,1248,Science Lab,7/25/2023,12:30:00,45,Practical,237
+703,1248,Computer Lab,5/30/2023,14:00:00,60,Research,201
+704,1248,Science Lab,9/10/2023,12:30:00,45,Research,245
+705,1249,Library,1/28/2023,12:30:00,30,Practical,220
+706,1250,Computer Lab,2/6/2023,14:00:00,45,Research,222
+707,1250,Science Lab,12/4/2023,14:00:00,60,Research,230
+708,1250,Library,11/5/2023,10:00:00,60,Study,220
+709,1250,Library,6/9/2023,10:00:00,45,Research,238
+710,1251,Computer Lab,6/5/2023,14:00:00,45,Study,212
+711,1251,Computer Lab,9/22/2023,14:00:00,45,Research,237
+712,1251,Library,10/23/2023,12:30:00,45,Study,228
+713,1252,Library,10/5/2023,10:00:00,60,Practical,244
+714,1253,Science Lab,10/27/2023,14:00:00,30,Study,235
+715,1253,Library,10/14/2023,14:00:00,60,Study,236
+716,1254,Library,2/8/2023,12:30:00,30,Research,203
+717,1255,Science Lab,9/16/2023,14:00:00,30,Research,225
+718,1255,Computer Lab,6/18/2023,10:00:00,60,Practical,220
+719,1255,Science Lab,12/6/2023,14:00:00,45,Research,212
+720,1255,Computer Lab,9/4/2023,14:00:00,60,Research,220
+721,1256,Library,8/21/2023,14:00:00,60,Practical,229
+722,1256,Library,8/8/2023,12:30:00,45,Study,218
+723,1256,Computer Lab,8/21/2023,14:00:00,45,Study,219
+724,1256,Library,3/11/2023,14:00:00,30,Research,235
+725,1257,Computer Lab,1/26/2023,12:30:00,30,Practical,234
+726,1257,Science Lab,6/3/2023,12:30:00,30,Practical,216
+727,1257,Computer Lab,6/15/2023,10:00:00,60,Practical,217
+728,1257,Computer Lab,6/25/2023,14:00:00,45,Practical,235
+729,1257,Computer Lab,1/21/2023,10:00:00,30,Research,230
+730,1258,Library,7/27/2023,10:00:00,45,Study,234
+731,1258,Computer Lab,6/12/2023,14:00:00,30,Study,242
+732,1258,Computer Lab,6/11/2023,14:00:00,30,Research,222
+733,1258,Science Lab,1/27/2023,12:30:00,45,Practical,221
+734,1259,Library,12/22/2023,10:00:00,45,Research,229
+735,1259,Library,9/1/2023,10:00:00,30,Practical,227
+736,1259,Library,11/4/2023,12:30:00,30,Research,211
+737,1259,Computer Lab,4/4/2023,14:00:00,45,Study,215
+738,1260,Science Lab,6/28/2023,14:00:00,60,Practical,232
+739,1260,Science Lab,12/25/2023,10:00:00,60,Practical,204
+740,1260,Computer Lab,1/2/2023,14:00:00,60,Study,206
+741,1260,Science Lab,3/29/2023,12:30:00,60,Study,242
+742,1261,Computer Lab,8/11/2023,12:30:00,60,Practical,236
+743,1261,Science Lab,7/23/2023,14:00:00,30,Research,228
+744,1261,Library,10/17/2023,10:00:00,45,Study,216
+745,1262,Computer Lab,2/26/2023,14:00:00,45,Study,212
+746,1262,Science Lab,2/12/2023,14:00:00,45,Research,218
+747,1262,Computer Lab,1/14/2023,12:30:00,60,Study,217
+748,1262,Library,6/28/2023,12:30:00,60,Practical,211
+749,1262,Computer Lab,3/25/2023,14:00:00,45,Research,205
+750,1263,Science Lab,7/12/2023,14:00:00,30,Practical,205
+751,1263,Science Lab,5/4/2023,10:00:00,45,Study,222
+752,1264,Science Lab,8/29/2023,12:30:00,60,Study,227
+753,1264,Science Lab,1/16/2023,14:00:00,45,Study,228
+754,1264,Library,10/10/2023,10:00:00,45,Research,204
+755,1264,Library,6/11/2023,14:00:00,60,Research,212
+756,1264,Computer Lab,10/17/2023,10:00:00,45,Study,232
+757,1265,Library,5/23/2023,10:00:00,60,Practical,220
+758,1266,Library,7/28/2023,12:30:00,60,Research,244
+759,1266,Library,9/25/2023,14:00:00,30,Practical,222
+760,1266,Computer Lab,12/24/2023,14:00:00,60,Practical,220
+761,1266,Computer Lab,7/13/2023,14:00:00,30,Study,205
+762,1267,Science Lab,7/15/2023,10:00:00,45,Study,218
+763,1267,Science Lab,2/27/2023,12:30:00,45,Practical,201
+764,1268,Library,11/16/2023,14:00:00,60,Practical,204
+765,1268,Computer Lab,4/23/2023,14:00:00,45,Research,234
+766,1269,Library,1/1/2023,10:00:00,45,Research,225
+767,1269,Science Lab,4/19/2023,12:30:00,30,Research,224
+768,1270,Computer Lab,10/15/2023,10:00:00,45,Practical,202
+769,1270,Library,2/8/2023,10:00:00,60,Practical,237
+770,1270,Computer Lab,11/27/2023,12:30:00,60,Practical,201
+771,1270,Computer Lab,3/28/2023,14:00:00,45,Study,214
+772,1271,Computer Lab,9/29/2023,12:30:00,45,Research,204
+773,1271,Computer Lab,11/30/2023,14:00:00,45,Practical,234
+774,1271,Computer Lab,7/9/2023,12:30:00,30,Research,208
+775,1272,Science Lab,3/4/2023,12:30:00,45,Practical,215
+776,1272,Science Lab,5/14/2023,14:00:00,60,Research,212
+777,1273,Library,2/2/2023,14:00:00,45,Research,225
+778,1273,Library,7/4/2023,10:00:00,30,Practical,204
+779,1274,Computer Lab,1/5/2023,10:00:00,30,Practical,217
+780,1274,Computer Lab,8/23/2023,14:00:00,45,Research,215
+781,1274,Library,4/5/2023,14:00:00,45,Research,226
+782,1275,Computer Lab,10/16/2023,12:30:00,60,Study,214
+783,1276,Computer Lab,3/24/2023,12:30:00,30,Practical,244
+784,1276,Computer Lab,3/20/2023,12:30:00,45,Study,222
+785,1276,Library,12/17/2023,10:00:00,30,Practical,205
+786,1277,Science Lab,12/13/2023,14:00:00,60,Research,216
+787,1277,Library,3/30/2023,10:00:00,45,Study,240
+788,1277,Computer Lab,4/24/2023,10:00:00,30,Research,219
+789,1277,Library,5/18/2023,14:00:00,30,Practical,234
+790,1278,Science Lab,4/7/2023,10:00:00,30,Study,225
+791,1278,Library,10/9/2023,12:30:00,45,Practical,222
+792,1278,Science Lab,1/1/2023,12:30:00,30,Research,234
+793,1278,Library,5/14/2023,12:30:00,45,Research,203
+794,1279,Science Lab,5/8/2023,14:00:00,30,Study,208
+795,1279,Science Lab,10/28/2023,10:00:00,30,Study,245
+796,1279,Science Lab,2/22/2023,10:00:00,60,Research,215
+797,1280,Science Lab,4/27/2023,10:00:00,30,Research,224
+798,1281,Science Lab,9/4/2023,10:00:00,45,Practical,210
+799,1281,Computer Lab,1/27/2023,10:00:00,45,Study,237
+800,1282,Library,7/3/2023,12:30:00,60,Practical,244
+801,1282,Science Lab,9/4/2023,12:30:00,45,Research,233
+802,1283,Computer Lab,9/21/2023,14:00:00,45,Practical,222
+803,1283,Computer Lab,11/21/2023,12:30:00,45,Practical,219
+804,1284,Computer Lab,5/23/2023,14:00:00,60,Practical,208
+805,1284,Computer Lab,9/19/2023,12:30:00,30,Research,218
+806,1284,Library,3/24/2023,14:00:00,60,Study,229
+807,1285,Library,10/23/2023,10:00:00,60,Study,223
+808,1285,Library,11/16/2023,12:30:00,30,Study,243
+809,1285,Library,1/10/2023,12:30:00,60,Research,201
+810,1285,Library,5/25/2023,14:00:00,45,Practical,213
+811,1286,Computer Lab,5/20/2023,12:30:00,45,Research,213
+812,1286,Computer Lab,1/9/2023,10:00:00,45,Study,216
+813,1286,Library,2/21/2023,12:30:00,30,Research,211
+814,1287,Science Lab,7/19/2023,10:00:00,30,Practical,208
+815,1287,Science Lab,5/29/2023,12:30:00,45,Study,236
+816,1287,Computer Lab,7/14/2023,12:30:00,45,Practical,220
+817,1287,Computer Lab,8/4/2023,14:00:00,30,Research,230
+818,1288,Computer Lab,8/3/2023,12:30:00,45,Research,208
+819,1288,Library,10/5/2023,12:30:00,30,Study,243
+820,1288,Computer Lab,2/9/2023,12:30:00,60,Research,233
+821,1288,Computer Lab,10/9/2023,12:30:00,30,Practical,224
+822,1289,Computer Lab,7/8/2023,10:00:00,45,Research,229
+823,1289,Library,5/24/2023,12:30:00,30,Study,225
+824,1289,Computer Lab,7/3/2023,14:00:00,60,Research,244
+825,1289,Science Lab,9/9/2023,12:30:00,45,Research,204
+826,1290,Computer Lab,3/30/2023,12:30:00,60,Practical,243
+827,1290,Computer Lab,6/26/2023,14:00:00,30,Study,245
+828,1291,Science Lab,4/22/2023,10:00:00,30,Practical,224
+829,1291,Library,2/3/2023,10:00:00,30,Study,201
+830,1291,Science Lab,12/9/2023,10:00:00,45,Practical,221
+831,1292,Computer Lab,5/11/2023,14:00:00,60,Research,203
+832,1292,Library,2/23/2023,10:00:00,60,Practical,212
+833,1292,Science Lab,2/21/2023,14:00:00,60,Study,225
+834,1293,Library,6/24/2023,10:00:00,30,Study,210
+835,1293,Science Lab,8/19/2023,12:30:00,60,Research,222
+836,1293,Computer Lab,11/9/2023,10:00:00,60,Research,245
+837,1294,Science Lab,12/25/2023,14:00:00,60,Research,243
+838,1294,Library,6/14/2023,14:00:00,45,Practical,203
+839,1295,Computer Lab,10/19/2023,14:00:00,60,Practical,242
+840,1296,Science Lab,11/9/2023,10:00:00,30,Research,232
+841,1296,Computer Lab,2/5/2023,10:00:00,30,Practical,226
+842,1297,Computer Lab,5/7/2023,10:00:00,60,Practical,229
+843,1297,Computer Lab,11/8/2023,14:00:00,45,Study,204
+844,1297,Computer Lab,4/29/2023,10:00:00,45,Study,216
+845,1297,Library,7/31/2023,10:00:00,30,Research,237
+846,1298,Computer Lab,3/7/2023,10:00:00,60,Study,207
+847,1298,Computer Lab,12/18/2023,10:00:00,30,Study,214
+848,1298,Science Lab,1/15/2023,10:00:00,60,Study,216
+849,1298,Library,7/18/2023,14:00:00,45,Study,215
+850,1299,Science Lab,12/21/2023,10:00:00,60,Research,216
+851,1299,Library,8/13/2023,10:00:00,45,Practical,244
+852,1299,Science Lab,6/29/2023,12:30:00,45,Research,215
+853,1299,Computer Lab,12/6/2023,14:00:00,30,Practical,224
+854,1300,Library,6/3/2023,10:00:00,30,Research,211

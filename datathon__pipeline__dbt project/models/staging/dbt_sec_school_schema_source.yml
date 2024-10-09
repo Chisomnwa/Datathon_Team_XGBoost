@@ -1,0 +1,53 @@
+
+version: 2
+
+sources:
+  - name: sec_school_data
+    description: This is a replica of the DBT_SEC_SCHOOL_SCHEMA
+    schema: dbt_sec_school_schema
+    tables:
+      - name: DimStudent
+        columns: 
+          - name: student_id
+            description: Primary key of the DimStudent table
+            tests:
+              - unique
+              - not null
+      - name: DimStaff
+        columns:
+          - name: staff_id
+            description: Primary key of the DimStaff table
+            tests:
+              - unique
+              - not null
+      - name: DimFamily
+        columns:
+          - name: family_id
+            description: Primary key of the DimFamily table
+            tests:
+              - unique
+              - not null
+      - name: FactAcademicPerformance
+        columns:
+          - name: student_id
+            description: Foreign key referencing the student_id primary key in the student's table
+            tests:
+              - relationships:
+                  to: source('sec_school_data', 'DimStudent')
+                  field: student_id
+      - name: FactExtracurricular
+        columns:
+          - name: student_id
+            description: Foreign key referencing the student_id primary key in the DimStudent's table
+            tests:
+              - relationships:
+                  to: source('sec_school_data', 'DimStudent')
+                  field: student_id
+      - name: FactResourceUsage
+        columns:
+          - name: student_id
+            description: Foreign key referencing the student_id primary key in the student's table
+            tests:
+              - relationships:
+                  to: source('sec_school_data', 'DimStudent')
+                  field: student_id
