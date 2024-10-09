@@ -159,9 +159,11 @@ As shown, we establish foreign key relationships between fact and dim tables lik
 
 ---
 ## Data Warehouse Architecture
-With the insights from the data modeling process, we go ahead to develop the data warehouse architecture, which depicts to the stakeholders, how the data flows from the source to the datawarehouse in snowflake.
+With the insights from the data modeling process, we go ahead to develop the data warehouse architecture, which depicts to the stakeholders, how the data flows from the source to the data warehouse in snowflake.
 
-(Put architecture diagram here)
+<b>Data Warehouse Architecture Diagram</b>
+<img src="Data_Warehouse_Architecture.png">
+<br><br>
 
 ---
 ## Data Storage, Transformation, and  Integration with DBT and Snowflake
