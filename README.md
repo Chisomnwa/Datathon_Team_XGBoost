@@ -264,8 +264,8 @@ Our team is a 3-member team, with each member contributing equally to the projec
     * **[Twitter profile](https://x.com/som_nnamani)**
 
 * Abdulraqib Omotosho - Data Scientist
-    * **[Linkedin profile](Restricted)**
-    * **[Twitter profile](https://x.com/raqibcodesh)**
+    * **Linkedin profile - (Restricted)**
+    * **[Twitter profile](https://x.com/raqibcodes)**
 
 * Toby Davids - Data Analyst
     * **[Linkedin profile](https://www.linkedin.com/in/oluwatobi-afintinni-a57147101/)**
