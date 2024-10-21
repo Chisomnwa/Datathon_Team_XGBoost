@@ -248,6 +248,25 @@ The platform, SS3 Advanced Practice Quiz, provides personalized practice by allo
 You can access the platform here: [Exam Practice Platform](https://exam-test.streamlit.app/)
 
 ---
-The credentials for accessing the data warehouse on Snowflake is thus
+The credentials for accessing the data warehouse on Snowflake is thus:
+
 **USER**: DF_Reviewers
+
 **PASSWORD**: df_datathon
+
+---
+## Team Members
+
+Our team is a 3-member team, with each member contributing equally to the project. The team members and their info include:
+
+* Chisom Nnamani - Data Engineer
+    * **[Linkedin profile](https://www.linkedin.com/in/chisom-nnamani/)**
+    * **[Twitter profile](https://x.com/som_nnamani)**
+
+* Abdulraqib Omotosho - Data Scientist
+    * **[Linkedin profile](Restricted)**
+    * **[Twitter profile](https://x.com/raqibcodesh)**
+
+* Toby Davids - Data Analyst
+    * **[Linkedin profile](https://www.linkedin.com/in/oluwatobi-afintinni-a57147101/)**
+    * **[Twitter profile](https://x.com/Toby_Davids)**
